@@ -1,5 +1,5 @@
 {
-                "updated": "v1.2@191127",
+                "updated": "v1.3@200325",
                 "lists": [
                     {
                         "url": "https://blog.gloriousdays.pw/",
@@ -752,6 +752,126 @@
                         "lang": [],
                         "master": {},
                         "img": "https://ouroboros.github.io/images/ka04702.png",
+                        "tag": []
+                    }, {
+                        "url": "https://ketchuppp.xyz/",
+                        "title": "Ketchuppp",
+                        "describe": "萌新中的萌新",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://cdn.acwing.com/media/user/profile/photo/6828_lg_1109ff0c52.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://hsiangfeng.github.io/",
+                        "title": "Ray",
+                        "describe": "歡迎來到網頁世界",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://hsiangfeng.github.io/images/octocat.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://hsiangfeng.github.io/",
+                        "title": "Welcome.Web.World",
+                        "describe": "歡迎來到網頁世界",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://hsiangfeng.github.io/images/octocat.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://hsiangfeng.github.io/",
+                        "title": "Largesse",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://blog.customs.best/images/avatar.png",
+                        "tag": []
+                    }, {
+                        "url": "https://luotianyi.vc/",
+                        "title": "Luminous' Home",
+                        "describe": "记录生活中的点滴，留下回忆与怀恋",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://blog.cdn.luotianyi.vc/wp-content/uploads/2020-02-13_09-22-57.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://printempw.github.io/",
+                        "title": "PRIN BLOG",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://pbs.twimg.com/profile_images/852815274143133697/WUqJA0ba_400x400.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://asdasd.page/",
+                        "title": "asdasd.page",
+                        "describe": "If \"Happily Ever After\" did exist",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://asdasd.page/avatar/Sakuya_1.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://upupming.site/",
+                        "title": "upupming 的博客",
+                        "describe": "In real open source, you have the right to control your own destiny.",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://avatars1.githubusercontent.com/u/24741764",
+                        "tag": []
+                    }, {
+                        "url": "https://www.leadroyal.cn/",
+                        "title": "LeadroyaL's website",
+                        "describe": "Android Player & Pwn Baby",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://avatars3.githubusercontent.com/u/9478918",
+                        "tag": []
+                    }, {
+                        "url": "https://blog.kelu.org/",
+                        "title": "血衫非弧の一存",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://avatars3.githubusercontent.com/u/1147524",
+                        "tag": []
+                    }, {
+                        "url": "https://99nerocake.wordpress.com/",
+                        "title": "99NeroCake",
+                        "describe": "祇園精舍弦聲起、諸行無常浄瑠璃",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://0.gravatar.com/avatar/c2537db3a2e8b8a70ccead09f884fcad?s=128&d=identicon&r=G",
+                        "tag": []
+                    }, {
+                        "url": "https://www.quchao.net/",
+                        "title": "Mark's Blog",
+                        "describe": "彪悍做事，温柔生活",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://cdn.jsdelivr.net/gh/Mark-1215/CDN/uploads/logo/tx.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://blog.hobairiku.site/",
+                        "title": "Hobai's Blog",
+                        "describe": "善良诚实,积极勇敢",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://avatars2.githubusercontent.com/u/26238803?v=4",
+                        "tag": []
+                    }, {
+                        "url": "https://502.li/",
+                        "title": "木子",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://blog.502.li/avatar.png",
+                        "tag": []
+                    }, {
+                        "url": "https://www.flinty.moe/",
+                        "title": "你人很好但是抱歉",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://avatars0.githubusercontent.com/u/19165511?s=460&u=31bf90584107c31256bdb1cf02df5f7dfba83b15&v=4",
                         "tag": []
                     }
                 ]
