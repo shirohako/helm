@@ -769,16 +769,8 @@
                         "master": {},
                         "img": "https://hsiangfeng.github.io/images/octocat.jpg",
                         "tag": []
-                    }, {
-                        "url": "https://hsiangfeng.github.io/",
-                        "title": "Welcome.Web.World",
-                        "describe": "歡迎來到網頁世界",
-                        "lang": [],
-                        "master": {},
-                        "img": "https://hsiangfeng.github.io/images/octocat.jpg",
-                        "tag": []
-                    }, {
-                        "url": "https://hsiangfeng.github.io/",
+                    }{
+                        "url": "https://blog.customs.best/",
                         "title": "Largesse",
                         "describe": "",
                         "lang": [],
@@ -1016,14 +1008,6 @@
                         "lang": [],
                         "master": {},
                         "img": "https://sinaimg.ni-co.moe/large/005X3Vdhly1fe6eehdpfuj30k00k0mys.jpg",
-                        "tag": []
-                    }, {
-                        "url": "https://blog.never.pet/",
-                        "title": "NEVER迷の小窝",
-                        "describe": "喵喵喵～",
-                        "lang": [],
-                        "master": {},
-                        "img": "https://pbs.twimg.com/profile_images/1167453009506443265/vqWv_x9y_400x400.jpg",
                         "tag": []
                     }, {
                         "url": "https://www.wevg.org/",
