@@ -1,5 +1,5 @@
 {
-                "updated": "v1.3@200325",
+                "updated": "v1.4@200330",
                 "lists": [
                     {
                         "url": "https://blog.gloriousdays.pw/",
@@ -315,8 +315,8 @@
                         "tag": []
                     }, {
                         "url": "https://blog.yuzu.im/",
-                        "title": "Netrvin | 131's Blog",
-                        "describe": "",
+                        "title": "Netrvin",
+                        "describe": "131's Blog",
                         "lang": [],
                         "master": {},
                         "img": "https://avatars0.githubusercontent.com/u/11222509?s=460&v=4",
@@ -872,6 +872,254 @@
                         "lang": [],
                         "master": {},
                         "img": "https://avatars0.githubusercontent.com/u/19165511?s=460&u=31bf90584107c31256bdb1cf02df5f7dfba83b15&v=4",
+                        "tag": []
+                    }, {
+                        "url": "https://www.flinty.moe/",
+                        "title": "你人很好但是抱歉",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://avatars0.githubusercontent.com/u/19165511?s=460&u=31bf90584107c31256bdb1cf02df5f7dfba83b15&v=4",
+                        "tag": []
+                    }, {
+                        "url": "https://www.fiisi.com/",
+                        "title": "风萧萧兮易水寒",
+                        "describe": "So bad,Yet so good.",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://www.fiisi.com/wp-content/uploads/2017/10/IMG_20171027_094802.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://www.hanyibo.com/",
+                        "title": "韩艺博的博客",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://pbs.twimg.com/profile_images/1181017735276285957/4c5PSKMf_400x400.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://mdzz.eu/",
+                        "title": "辣子鸡’s Blog",
+                        "describe": "失われた人々は失われ、会う人々は最終的に会って。",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://s1.ax1x.com/2020/03/15/815ao4.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://rikumi.github.io/",
+                        "title": "/rkm/",
+                        "describe": "Can you hear me?",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://avatars3.githubusercontent.com/u/5051300?s=460&v=4",
+                        "tag": []
+                    }, {
+                        "url": "https://blog.moli.rocks/",
+                        "title": "MOLi Blog",
+                        "describe": "Thoughts, stories and ideas.",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://avatars1.githubusercontent.com/u/9153748?s=200&v=4",
+                        "tag": []
+                    }, {
+                        "url": "https://hex.moe/",
+                        "title": "LovelyWei's 废纸篓",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://hex.moe/img/avatar.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://hunterx.xyz/",
+                        "title": "猎人杂货铺",
+                        "describe": "学习随笔 与君分享",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://hunterx.xyz/images/avatar.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://ehlxr.me/",
+                        "title": "Ehlxr's Blog",
+                        "describe": "瞻前顾后，惶惶不可终日",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://aboutme.imgix.net/background/users/e/h/l/ehlxr_1511921340_869.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://nova.moe/",
+                        "title": "Nova Kwok's Awesome Blog",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://avatars1.githubusercontent.com/u/24852034?s=460&u=40bf9af28133cdbcdbd405f8882291a04750e1d5&v=4",
+                        "tag": []
+                    }, {
+                        "url": "https://wusiyu.me/",
+                        "title": "WuSiYu Blog",
+                        "describe": "学生，Web开发者，智能硬件&IOT爱好者",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://secure.gravatar.com/avatar/2f33c5c8301def53ee2efd008260b73e?s=80&d=retro&r=g",
+                        "tag": []
+                    }, {
+                        "url": "https://www.40huo.cn/",
+                        "title": "40huo's",
+                        "describe": "兼总条贯 知至知终",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://www.40huo.cn/avatar.gif",
+                        "tag": []
+                    }, {
+                        "url": "https://icodex.org/",
+                        "title": "iCodex's Blog",
+                        "describe": "但尽人事，莫问前程。",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://www.40huo.cn/avatar.gif",
+                        "tag": []
+                    }, {
+                        "url": "https://wi1dcard.dev/",
+                        "title": "Wi1dcard",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://www.gravatar.com/avatar/9f1da8f9f5768d71d3f2e996e04af47a?s=200",
+                        "tag": []
+                    }, {
+                        "url": "https://makazeu.win/",
+                        "title": "Makazeu's Blog",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://makazeu.win/img/avatar.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://www.xde.io/",
+                        "title": "仙岛驿站",
+                        "describe": "Time moves in one direction, memory in another.",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://avatars1.githubusercontent.com/u/7334510?s=460&u=2d2b2963249f3fe2e5ef88005aab8c4c2d2b2eae&v=4",
+                        "tag": []
+                    }, {
+                        "url": "https://blog.asec01.net/",
+                        "title": "只有一秒的记忆",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://blog.asec01.net/myfiles/img/hdimg-2s.png",
+                        "tag": []
+                    }, {
+                        "url": "https://blog.alanyhq.com/",
+                        "title": "Alanyhq 's blog",
+                        "describe": "Keep surpassing yourself and never give up.",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://avatars1.githubusercontent.com/u/36808705?s=460&u=7b308a8ed15f03f0a650a1544e9cbabf06f16810&v=4",
+                        "tag": []
+                    }, {
+                        "url": "https://i.urox.cn/",
+                        "title": "Urox",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://tva4.sinaimg.cn/crop.0.0.996.996.180/acffffdbjw8f12psqv975j20ro0rp41j.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://blog.ni-co.moe/",
+                        "title": "矢澤にこ",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://sinaimg.ni-co.moe/large/005X3Vdhly1fe6eehdpfuj30k00k0mys.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://blog.never.pet/",
+                        "title": "NEVER迷の小窝",
+                        "describe": "喵喵喵～",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://pbs.twimg.com/profile_images/1167453009506443265/vqWv_x9y_400x400.jpg",
+                        "tag": []
+                    }, {
+                        "url": "https://www.wevg.org/",
+                        "title": "Vigorous Pro",
+                        "describe": "The world can always use more heroes.",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://i.yecdn.com/images/2019/04/28/eb8f0d223a57a56b086fb8c940455aef.png",
+                        "tag": []
+                    }, {
+                        "url": "https://zhangshuqiao.org/",
+                        "title": "米米的博客",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://zhangshuqiao.org/images/icon.gif",
+                        "tag": []
+                    }, {
+                        "url": "https://kotori.love/",
+                        "title": "あかねぞら",
+                        "describe": "=w=",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://avatars3.githubusercontent.com/u/10093992?s=460&u=5233e9783a9b685c3cbd1d5236b53bead5af572a&v=4",
+                        "tag": []
+                    }, {
+                        "url": "https://wasteland.touko.moe/",
+                        "title": "Wasteland",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://wasteland.touko.moe/images/avatar.png",
+                        "tag": []
+                    }, {
+                        "url": "https://wasteland.touko.moe/",
+                        "title": "Wasteland",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://wasteland.touko.moe/images/avatar.png",
+                        "tag": []
+                    }, {
+                        "url": "https://blog.moew.xyz/",
+                        "title": "风痕's Blog",
+                        "describe": "Let's debug the world together.",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://blog.moew.xyz/img/avatar.png",
+                        "tag": []
+                    }, {
+                        "url": "https://blog.tcwq.tech/",
+                        "title": "Captain 雪ノ下八幡",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://blog.tcwq.tech/img/avatar.png",
+                        "tag": []
+                    }, {
+                        "url": "https://nekosiua.moe/",
+                        "title": "Nekosiua",
+                        "describe": "Nemo用来放置杂物的地方",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://nekosiua.moe/wp-content/uploads/2020/03/93F8C745-1431-4488-9F0A-206A5CC20E00.jpeg",
+                        "tag": []
+                    }, {
+                        "url": "https://yuki.yuki233.com/",
+                        "title": "某初雪的无名Blog",
+                        "describe": "",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://yuki.yuki233.com/wp-content/uploads/2018/06/68934226_p4_%E7%9C%8B%E5%9B%BE%E7%8E%8B.png",
+                        "tag": []
+                    }, {
+                        "url": "https://nekosc.com/",
+                        "title": "零件's Blog",
+                        "describe": "Tech Otakus Save The World\n",
+                        "lang": [],
+                        "master": {},
+                        "img": "https://nekosc.com/usr/plugins/GravatarCache/dfd75de244e05c7efc2c549670f8c212.jpg",
                         "tag": []
                     }
                 ]
