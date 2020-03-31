@@ -1,0 +1,118 @@
+{
+  "groups": [
+    {
+      "name": "Image Search",
+      "describe": "反向搜图",
+      "icon": "mdi-image",
+      "assets": [
+        {
+          "url": "https://iqdb.org/",
+          "title": "Multi-service image search"
+        },
+        {
+          "url": "https://saucenao.com/",
+          "title": "SauceNAO Image Search"
+        },
+        {
+          "url": "https://trace.moe/",
+          "title": "What Anime Is This?"
+        },
+        {
+          "url": "https://ascii2d.net/",
+          "title": "二次元画像詳細検索"
+        }
+      ]
+    },
+    {
+      "name": "Anime Download",
+      "describe": "动画资源",
+      "icon": "mdi-file-video",
+      "assets": [
+        {
+          "url": "https://vcb-s.com/",
+          "title": "VCB-Studio"
+        },
+        {
+          "url": "https://nyaa.si/",
+          "title": "Nyaa"
+        },
+        {
+          "url": "https://dmhy.org/",
+          "title": "動漫花園資"
+        },
+        {
+          "url": "https://mikanani.me/",
+          "title": "蜜柑计划 - Mikan Project"
+        },
+        {
+          "url": "https://bangumi.moe/",
+          "title": "Bangumi Moe"
+        },
+        {
+          "url": "https://acg.rip/",
+          "title": "ACG.RIP"
+        },
+        {
+          "url": "https://www.acgnx.se/",
+          "title": "Project AcgnX Torrent Global"
+        },
+        {
+          "url": "https://www.comicat.org/",
+          "title": "漫猫动漫BT下载"
+        },
+        {
+          "url": "https://www.kisssub.org/",
+          "title": "爱恋动漫BT下载"
+        },
+        {
+          "url": "https://snow-raws.com/",
+          "title": "Snow-Raws"
+        }
+      ]
+    },
+    {
+      "name": "Game",
+      "describe": "游戏社区、游戏媒体",
+      "icon": "mdi-gamepad-square",
+      "assets": [
+        {
+          "url": "https://keylol.com/",
+          "title": "其乐"
+        },
+        {
+          "url": "https://www.gcores.com/",
+          "title": "机核 GCORES"
+        },
+        {
+          "url": "https://www.vgtime.com/",
+          "title": "游戏时光"
+        },
+        {
+          "url": "https://indienova.com/",
+          "title": "Indienova"
+        },
+        {
+          "url": "https://www.gamer.com.tw/",
+          "title": "巴哈姆特"
+        },
+        {
+          "url": "https://cowlevel.net/game",
+          "title": "奶牛关"
+        },
+        {
+          "url": "https://gouhuo.qq.com/",
+          "title": "篝火营地"
+        },
+        {
+          "url": "https://itch.io/",
+          "title": "itch.io"
+        },
+        {
+          "url": "https://automaton-media.com/",
+          "title": "AUTOMATON",
+          "icon": "https://automaton-media.com/wp-content/uploads/2016/05/automaton-favicon.ico"
+        }
+      ]
+    }
+  ]
+}
