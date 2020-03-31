@@ -7,19 +7,23 @@
       "assets": [
         {
           "url": "https://iqdb.org/",
-          "title": "Multi-service image search"
+          "title": "Multi-service image search",
+          "icon": "https://iqdb.org/favicon.ico"
         },
         {
           "url": "https://saucenao.com/",
-          "title": "SauceNAO Image Search"
+          "title": "SauceNAO Image Search",
+          "icon": "https://saucenao.com/favicon.ico"
         },
         {
           "url": "https://trace.moe/",
-          "title": "What Anime Is This?"
+          "title": "What Anime Is This?",
+          "icon": "https://ascii2d.net/assets/favicon-461e7af86f6c1a73f716cf8c729e65d6164851b66470932d01ef928ebbaed6ba.ico"
         },
         {
           "url": "https://ascii2d.net/",
-          "title": "二次元画像詳細検索"
+          "title": "二次元画像詳細検索",
+          "icon": "https://trace.moe/favicon128.png"
         }
       ]
     },
@@ -30,19 +34,23 @@
       "assets": [
         {
           "url": "https://vcb-s.com/",
-          "title": "VCB-Studio"
+          "title": "VCB-Studio",
+          "icon": "https://cache.cswsadlab.com/wp-content/customRes/favicon@180.png"
         },
         {
           "url": "https://nyaa.si/",
-          "title": "Nyaa"
+          "title": "Nyaa",
+          "icon": "https://nyaa.si/static/favicon.png"
         },
         {
           "url": "https://dmhy.org/",
-          "title": "動漫花園資"
+          "title": "動漫花園資",
+          "icon": "https://dmhy.org/favicon.ico"
         },
         {
           "url": "https://mikanani.me/",
-          "title": "蜜柑计划 - Mikan Project"
+          "title": "蜜柑计划 - Mikan Project",
+          "icon": "https://mikanani.me/Images/favicon.ico?v=2"
         },
         {
           "url": "https://bangumi.moe/",
@@ -50,19 +58,23 @@
         },
         {
           "url": "https://acg.rip/",
-          "title": "ACG.RIP"
+          "title": "ACG.RIP",
+          "icon": "https://acg.rip/favicon.ico"
         },
         {
           "url": "https://www.acgnx.se/",
-          "title": "Project AcgnX Torrent Global"
+          "title": "Project AcgnX Torrent Global",
+          "icon": "https://www.acgnx.se/images/favicon.ico"
         },
         {
           "url": "https://www.comicat.org/",
-          "title": "漫猫动漫BT下载"
+          "title": "漫猫动漫BT下载",
+          "icon": "https://www.comicat.org/images/favicon/comicat.ico"
         },
         {
           "url": "https://www.kisssub.org/",
-          "title": "爱恋动漫BT下载"
+          "title": "爱恋动漫BT下载",
+          "icon": "https://www.kisssub.org/images/favicon/kisssub.ico"
         },
         {
           "url": "https://snow-raws.com/",
@@ -77,35 +89,43 @@
       "assets": [
         {
           "url": "https://keylol.com/",
-          "title": "其乐"
+          "title": "其乐",
+          "icon": "https://keylol.com/favicon.ico"
         },
         {
           "url": "https://www.gcores.com/",
-          "title": "机核 GCORES"
+          "title": "机核 GCORES",
+          "icon": "https://www.gcores.com/favicon.ico"
         },
         {
           "url": "https://www.vgtime.com/",
-          "title": "游戏时光"
+          "title": "游戏时光",
+          "icon": "https://www.vgtime.com/resources/img/favicon.ico"
         },
         {
           "url": "https://indienova.com/",
-          "title": "Indienova"
+          "title": "Indienova",
+          "icon": "https://indienova.com/favicon.ico"
         },
         {
           "url": "https://www.gamer.com.tw/",
-          "title": "巴哈姆特"
+          "title": "巴哈姆特",
+          "icon": "https://www.gamer.com.tw/favicon.ico"
         },
         {
           "url": "https://cowlevel.net/game",
-          "title": "奶牛关"
+          "title": "奶牛关",
+          "icon": "https://cowlevel.net/favicon.ico"
         },
         {
           "url": "https://gouhuo.qq.com/",
-          "title": "篝火营地"
+          "title": "篝火营地",
+          "icon": "https://gouhuo.qq.com/favicon.ico"
         },
         {
           "url": "https://itch.io/",
-          "title": "itch.io"
+          "title": "itch.io",
+          "icon": "https://itch.io/favicon.ico"
         },
         {
           "url": "https://automaton-media.com/",
