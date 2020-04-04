@@ -133,6 +133,54 @@
           "icon": "https://automaton-media.com/wp-content/uploads/2016/05/automaton-favicon.ico"
         }
       ]
+    },
+    {
+      "name": "Music Database (Game,Anime,Doujin)",
+      "describe": "音樂數據庫",
+      "icon": "mdi-file-music-outline",
+      "assets": [
+        {
+          "url": "https://vgmdb.net/",
+          "title": "VGMdb",
+          "icon": "https://vgmdb.net/favicon.ico"
+        },
+        {
+          "url": "https://musicbrainz.org/",
+          "title": "MusicBrainz",
+          "icon": "https://musicbrainz.org/favicon.ico"
+        },
+        {
+          "url": "http://anison.info/",
+          "title": "Anison Generation",
+          "icon": "http://anison.info/favicon.ico"
+        },
+        {
+          "url": "https://touhou.arrangement-chronicle.com/",
+          "title": "東方編曲録",
+          "icon": "https://touhou.arrangement-chronicle.com/favicon.ico"
+        },
+        {
+          "url": "http://www.ost-center.com/",
+          "title": "OST Center",
+          "icon": "http://www.ost-center.com/favicon.ico"
+        },
+        {
+          "url": "http://www.ost-center.com/",
+          "title": "OST Center",
+          "icon": "http://www.ost-center.com/favicon.ico"
+        },
+        {
+          "url": "http://www.game-ost.com/",
+          "title": "Game-OST",
+          "icon": "http://www.ost-center.com/favicon.ico"
+        },
+        {
+          "url": "https://vocadb.net/",
+          "title": "VocaDB",
+          "icon": "https://vocadb.net/Content/favicon.ico"
+        }
+      
+      ]
     }
   ]
 }
