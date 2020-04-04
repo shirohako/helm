@@ -157,12 +157,6 @@
         {
           "url": "https://touhou.arrangement-chronicle.com/",
           "title": "東方編曲録",
-          "icon": "https://touhou.arrangement-chronicle.com/favicon.ico"
-        },
-        {
-          "url": "http://www.ost-center.com/",
-          "title": "OST Center",
-          "icon": "http://www.ost-center.com/favicon.ico"
         },
         {
           "url": "http://www.ost-center.com/",
@@ -172,7 +166,7 @@
         {
           "url": "http://www.game-ost.com/",
           "title": "Game-OST",
-          "icon": "http://www.ost-center.com/favicon.ico"
+          "icon": "http://www.game-ost.com/favicon.ico"
         },
         {
           "url": "https://vocadb.net/",
