@@ -151,8 +151,7 @@
         },
         {
           "url": "http://anison.info/",
-          "title": "Anison Generation",
-          "icon": "http://anison.info/favicon.ico"
+          "title": "Anison Generation"
         },
         {
           "url": "https://touhou.arrangement-chronicle.com/",
@@ -160,20 +159,17 @@
         },
         {
           "url": "http://www.ost-center.com/",
-          "title": "OST Center",
-          "icon": "http://www.ost-center.com/favicon.ico"
+          "title": "OST Center"
         },
         {
           "url": "http://www.game-ost.com/",
-          "title": "Game-OST",
-          "icon": "http://www.game-ost.com/favicon.ico"
+          "title": "Game-OST"
         },
         {
           "url": "https://vocadb.net/",
           "title": "VocaDB",
           "icon": "https://vocadb.net/Content/favicon.ico"
         }
-      
       ]
     }
   ]
