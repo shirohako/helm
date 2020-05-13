@@ -171,6 +171,56 @@
           "icon": "https://vocadb.net/Content/favicon.ico"
         }
       ]
+    },
+    {
+      "name": "Subscriptions",
+      "describe": "订阅频道",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://www.youtube.com/user/LinusTechTips",
+          "title": "Linus Tech Tips"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA",
+          "title": "TechLinked"
+        },{
+          "url": " https://www.youtube.com/user/msadaghd",
+          "title": "ElectroBOOM"
+        },
+        {
+          "url": "https://space.bilibili.com/12434430",
+          "title": "Linus Tech Tips (Translated)"
+        },
+        {
+          "url": "https://space.bilibili.com/326664284",
+          "title": "TechLinked (Translated)"
+        },
+        {
+          "url": "https://space.bilibili.com/326664284",
+          "title": "ElectroBOOM (Translated)"
+        },
+        {
+          "url": "https://space.bilibili.com/25876945",
+          "title": "Geekerwan (极客湾)"
+        },
+        {
+          "url": "https://www.youtube.com/user/unboxtherapy",
+          "title": "UnboxTherapy"
+        },
+        {
+          "url": "https://space.bilibili.com/115126480",
+          "title": "UnboxTherapy (Translated)"
+        },
+        {
+          "url": "https://space.bilibili.com/427494870/",
+          "title": "硬核拆解"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC4zLFvnyN0zLbeqV5Xqh0sQ/videos",
+          "title": "腦控"
+        }
+      ]
     }
   ]
 }
