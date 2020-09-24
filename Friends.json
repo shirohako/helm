@@ -1,5 +1,5 @@
 {
-  "updated": "v1.5@200331",
+  "updated": "v1.6@200925",
   "groups": [
     {
       "name": "Siegfried Kircheis",
@@ -1017,7 +1017,7 @@
           "describe": "Let's debug the world together.",
           "lang": [],
           "master": {},
-          "img": "https://blog.moew.xyz/img/avatar.png",
+          "img": "https://blog-moew-xyz-static.smartgslb.com/img/avatar.png",
           "label": []
         },
         {
@@ -1027,15 +1027,6 @@
           "lang": [],
           "master": {},
           "img": "https://blog.tcwq.tech/img/avatar.png",
-          "label": []
-        },
-        {
-          "url": "https://nekosiua.moe/",
-          "title": "Nekosiua",
-          "describe": "Nemo用来放置杂物的地方",
-          "lang": [],
-          "master": {},
-          "img": "https://nekosiua.moe/wp-content/uploads/2020/03/93F8C745-1431-4488-9F0A-206A5CC20E00.jpeg",
           "label": []
         },
         {
@@ -1073,6 +1064,15 @@
           "master": {},
           "img": "https://avatars1.githubusercontent.com/u/39155974?s=460&u=410eaa89f567d6550f78e9696888ab09e3d0335c&v=4",
           "label": []
+        },
+        {
+          "url": "https://xerlang.github.io/",
+          "title": "小学堂",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "https://avatars0.githubusercontent.com/u/34172455?s=460&v=4",
+          "label": []
         }
       ]
     },
@@ -1108,24 +1108,6 @@
           "label": []
         },
         {
-          "url": "https://xerlang.github.io/",
-          "title": "小学堂",
-          "describe": "",
-          "lang": [],
-          "master": {},
-          "img": "https://avatars0.githubusercontent.com/u/34172455?s=460&v=4",
-          "label": []
-        },
-        {
-          "url": "https://moeclub.org/",
-          "title": "萌咖",
-          "describe": "",
-          "lang": [],
-          "master": {},
-          "img": "https://avatars0.githubusercontent.com/u/32381827?s=460&u=4f29ea21a5fb40abfd6323792e0ff796d0db40cf&v=4",
-          "label": []
-        },
-        {
           "url": "http://lysandria1985.blogspot.com/",
           "title": "萬年冷凍庫",
           "describe": "",
@@ -1144,66 +1126,12 @@
           "label": []
         },
         {
-          "url": "https://blog.sometimesnaive.org/",
-          "title": "南琴浪博客",
-          "describe": "",
-          "lang": [],
-          "master": {},
-          "img": "https://avatars2.githubusercontent.com/u/26526543",
-          "label": []
-        },
-        {
-          "url": "https://www.2dan.cc/",
-          "title": "二蛋",
-          "describe": "发现、实践、分享",
-          "lang": [],
-          "master": {},
-          "img": "https://avatars1.githubusercontent.com/u/1641387?s=460&v=4",
-          "label": []
-        },
-        {
           "url": "https://jqs7.com/",
           "title": "Jqs7",
           "describe": "NEVER STOP CODING",
           "lang": [],
           "master": {},
           "img": "https://avatars0.githubusercontent.com/u/12208686?s=460&v=4",
-          "label": []
-        },
-        {
-          "url": "https://blog.hjc.im/",
-          "title": "風の音",
-          "describe": "（真）日常与无情吐槽",
-          "lang": [],
-          "master": {},
-          "img": "https://avatars3.githubusercontent.com/u/1969802?s=460&v=4",
-          "label": []
-        },
-        {
-          "url": "https://astrataro.wordpress.com/",
-          "title": "天山牛棚",
-          "describe": "奧林帕斯牧場",
-          "lang": [],
-          "master": {},
-          "img": "https://i.loli.net/2019/09/01/DY32ugAntfeOMlG.jpg",
-          "label": []
-        },
-        {
-          "url": "https://www.sapikachu.net/",
-          "title": "SAPikachu的工作室",
-          "describe": "不是什么都知道啦，只是知道Google知道的而已",
-          "lang": [],
-          "master": {},
-          "img": "https://0.gravatar.com/avatar/c53b6270122173399ab26d637e70cae0?s=500&d=mm&r=g",
-          "label": []
-        },
-        {
-          "url": "http://ouroboros.github.io/",
-          "title": "「十三工房」",
-          "describe": "",
-          "lang": [],
-          "master": {},
-          "img": "https://ouroboros.github.io/images/ka04702.png",
           "label": []
         }
       ]
