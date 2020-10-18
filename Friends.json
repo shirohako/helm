@@ -1,5 +1,5 @@
 {
-  "updated": "v1.6@200925",
+  "updated": "v1.6@201019",
   "groups": [
     {
       "name": "Siegfried Kircheis",
@@ -531,15 +531,6 @@
           "lang": [],
           "master": {},
           "img": "https://avatars3.githubusercontent.com/u/14024832?s=460&v=4",
-          "label": []
-        },
-        {
-          "url": "https://lala.im/",
-          "title": "荒岛",
-          "describe": "分享创造快乐",
-          "lang": [],
-          "master": {},
-          "img": "https://i.loli.net/2019/09/01/Tq1PaimpRFuk6G2.png",
           "label": []
         },
         {
@@ -1332,15 +1323,6 @@
           "lang": [],
           "master": {},
           "img": "https://avatars1.githubusercontent.com/u/15135943?s=460&u=b37f5efa16d1c2c1522e19dee1f950fbb5c2ade0&v=4",
-          "label": []
-        },
-        {
-          "url": "https://www.elietio.xyz/",
-          "title": "零の轨迹",
-          "describe": "Sic Parvis Magna",
-          "lang": [],
-          "master": {},
-          "img": "https://www.elietio.xyz/images/avatar.png",
           "label": []
         },
         {
