@@ -3,7 +3,7 @@
   "groups": [
     {
       "name": "Siegfried Kircheis",
-      "describe": "Mein Freund",
+      "describe": "交换过友链的朋友们~",
       "assets": [
         {
           "url": "https://blog.gloriousdays.pw/",
@@ -80,8 +80,8 @@
       ]
     },
     {
-      "name": "VCB-Studio",
-      "describe": "大家一起实现的故事！",
+      "name": "Tranquility",
+      "describe": "受赞颂的人们よ、即便不说出来 看得见的东西终会看见、直到永远...",
       "assets": [
         {
           "url": "https://amefs.net/",
@@ -127,13 +127,7 @@
           "master": {},
           "img": "https://pbs.twimg.com/profile_images/731647494287806464/E3qM18nl_400x400.jpg",
           "label": []
-        }
-      ]
-    },
-    {
-      "name": "Tranquility",
-      "describe": "It only takes one lone soul. It only takes one in a thousand.",
-      "assets": [
+        },
         {
           "url": "https://chanshiyu.com/",
           "title": "蝉時雨",
@@ -141,26 +135,6 @@
           "lang": [],
           "master": {},
           "img": "https://i.loli.net/2018/12/09/5c0cc2b4e0195.png",
-          "label": []
-        },
-        {
-          "url": "https://blog.sean.taipei",
-          "title": "Sean's Note",
-          "describe": "Sean 的部落格, 記錄一些小教學、自己的經歷",
-          "lang": [],
-          "master": {},
-          "img": "https://avatars3.githubusercontent.com/u/10102616?s=460&v=4",
-          "label": []
-        },
-        {
-          "url": "https://www.oxxostudio.tw/",
-          "title": "OXXO.STUDIO",
-          "describe": "Design thinking is everywhere",
-          "lang": [
-            "zh-TW"
-          ],
-          "master": {},
-          "img": "https://www.oxxostudio.tw/img/articles/201405/about-me.jpg",
           "label": []
         },
         {
@@ -173,9 +147,144 @@
           "label": []
         },
         {
+          "url": "https://www.cwf123.com/",
+          "title": "LA COCOA",
+          "describe": "俺はココアだ",
+          "lang": [],
+          "master": {},
+          "img": "https://i.loli.net/2019/09/01/hmkRxCVnqw75vdZ.png",
+          "label": []
+        },
+        {
+          "url": "https://fallen.moe/",
+          "title": "Fallenhh",
+          "describe": "悲しみのない自由な空へ 翼はためかせ",
+          "lang": [],
+          "master": {},
+          "img": "https://i.loli.net/2020/08/30/SIKcUpA5ZQwBCEO.jpg",
+          "label": []
+        },
+        {
+          "url": "https://blog.skk.moe/",
+          "title": "Sukka's Blog",
+          "describe": "童话只美在真实却从不续写",
+          "lang": [],
+          "master": {},
+          "img": "https://avatars0.githubusercontent.com/u/40715044?s=460&v=4",
+          "label": []
+        },
+        {
+          "url": "https://plumz.me/",
+          "title": "Plum's Blog",
+          "describe": "我看着自己在看着自己",
+          "lang": [],
+          "master": {},
+          "img": "https://cdn.jsdelivr.net/gh/plumlis/plumzme/static/rincoloring.jpg",
+          "label": []
+        },
+        {
+          "url": "https://blog.sgdylan.com/",
+          "title": "某ロリコン的自白",
+          "describe": "Yet another otaku",
+          "lang": [],
+          "master": {},
+          "img": "https://avatars2.githubusercontent.com/u/6657074?s=460&v=4",
+          "label": []
+        },
+        {
+          "url": "https://www.mokeyjay.com/",
+          "title": "超能小紫",
+          "describe": "某PHP菜鸟的技术博客与ACG日常",
+          "lang": [],
+          "master": {},
+          "img": "https://www.mokeyjay.com/wp-content/uploads/2017/04/2017040608512197.jpg",
+          "label": []
+        },
+        {
+          "url": "https://moe.best/",
+          "title": "神代綺凜の萌化小基地",
+          "describe": "万物皆可萌★(*＞Ｖ＜)ゞ*゜+",
+          "lang": [],
+          "master": {},
+          "img": "https://moe.best/about/assets/images/kilin.png",
+          "label": []
+        },
+        {
+          "url": "https://blog.kelu.org/",
+          "title": "血衫非弧の一存",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "https://kelu.org/images/profile-1-640x640.jpg",
+          "label": []
+        },
+        {
+          "url": "https://www.giuem.com/",
+          "title": "BLOG @ GIUEM",
+          "describe": "你会是怎样的 Friends 呢？",
+          "lang": [],
+          "master": {},
+          "img": "https://i.loli.net/2020/09/25/h7BpK4YrXMJzUq6.jpg",
+          "label": []
+        },
+        {
+          "url": "https://rikumi.github.io/",
+          "title": "/rkm/",
+          "describe": "Can you hear me?",
+          "lang": [],
+          "master": {},
+          "img": "https://i.loli.net/2020/09/25/9KYFDOJExs6m3HN.jpg",
+          "label": []
+        },
+        {
+          "url": "https://blog.tcwq.tech/",
+          "title": "Captain 雪ノ下八幡",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "https://blog.tcwq.tech/img/avatar.png",
+          "label": []
+        },
+        {
+          "url": "https://yazawaniko.com",
+          "title": "Niconeiko INDEX",
+          "describe": "この恋を、一生忘れない",
+          "lang": [],
+          "master": {},
+          "img": "https://secure.gravatar.com/avatar/ca204b570aced1444212adaf35aaa028?s=500",
+          "label": []
+        },
+        {
+          "url": "https://502.li/",
+          "title": "木子",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "https://i.loli.net/2020/10/18/pbDZzUaoOcAlwhX.png",
+          "label": []
+        },
+        {
+          "url": "https://nova.moe/",
+          "title": "Nova Kwok's Awesome Blog",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "https://avatars1.githubusercontent.com/u/24852034?s=460&u=40bf9af28133cdbcdbd405f8882291a04750e1d5&v=4",
+          "label": []
+        },
+        {
+          "url": "https://blog.sean.taipei",
+          "title": "Sean's Note",
+          "describe": "Sean 的部落格, 記錄一些小教學、自己的經歷",
+          "lang": [],
+          "master": {},
+          "img": "https://avatars3.githubusercontent.com/u/10102616?s=460&v=4",
+          "label": []
+        },
+        {
           "url": "https://npchk.info/",
           "title": "NPCHK Blog",
-          "describe": "路邊小博客（<ゝω・）☆\n",
+          "describe": "路邊小博客（<ゝω・）☆",
           "lang": [],
           "master": {},
           "img": "https://i.loli.net/2019/09/01/BcCOSwQWJ175NDt.jpg",
@@ -209,32 +318,12 @@
           "label": []
         },
         {
-          "url": "https://www.cwf123.com/",
-          "title": "LA COCOA",
-          "describe": "俺はココアだ",
-          "lang": [
-            "zh-CN"
-          ],
-          "master": {},
-          "img": "https://i.loli.net/2019/09/01/hmkRxCVnqw75vdZ.png",
-          "label": []
-        },
-        {
           "url": "https://paperneko.moe/",
           "title": "//初中生未滿的紙喵把標題扔掉啦",
           "describe": "SAPIENTIA EST ARS BONI ET AEQUI",
           "lang": [],
           "master": {},
           "img": "https://paperneko.moe/wp-content/uploads/2018/02/WangWang20171220192157.jpg",
-          "label": []
-        },
-        {
-          "url": "https://blog.skk.moe/",
-          "title": "Sukka's Blog",
-          "describe": "童话只美在真实却从不续写",
-          "lang": [],
-          "master": {},
-          "img": "https://avatars0.githubusercontent.com/u/40715044?s=460&v=4",
           "label": []
         },
         {
@@ -247,39 +336,12 @@
           "label": []
         },
         {
-          "url": "https://plumz.me/",
-          "title": "Plum's Blog",
-          "describe": "我看着自己在看着自己",
-          "lang": [],
-          "master": {},
-          "img": "https://img2.plumz.me/rincoloring.jpg",
-          "label": []
-        },
-        {
           "url": "https://blog.toby.moe/",
           "title": "Toby's 次元裂缝",
           "describe": "An observer of the world.",
           "lang": [],
           "master": {},
           "img": "https://blog.toby.moe/content/images/2018/03/satania.jpg",
-          "label": []
-        },
-        {
-          "url": "https://blog.sgdylan.com/",
-          "title": "某ロリコン的自白",
-          "describe": "Yet another otaku",
-          "lang": [],
-          "master": {},
-          "img": "https://avatars2.githubusercontent.com/u/6657074?s=460&v=4",
-          "label": []
-        },
-        {
-          "url": "https://www.mokeyjay.com/",
-          "title": "超能小紫",
-          "describe": "某PHP菜鸟的技术博客与ACG日常",
-          "lang": [],
-          "master": {},
-          "img": "https://www.mokeyjay.com/wp-content/uploads/2017/04/2017040608512197.jpg",
           "label": []
         },
         {
@@ -307,15 +369,6 @@
           "lang": [],
           "master": {},
           "img": "https://secure.gravatar.com/avatar/a338a2aa3c392f2de07fb9c02c9d9b5e?s=500",
-          "label": []
-        },
-        {
-          "url": "https://mxpkx.com/",
-          "title": "Niconeiko INDEX",
-          "describe": "この恋を、一生忘れない",
-          "lang": [],
-          "master": {},
-          "img": "https://secure.gravatar.com/avatar/ca204b570aced1444212adaf35aaa028?s=500",
           "label": []
         },
         {
@@ -415,15 +468,6 @@
           "lang": [],
           "master": {},
           "img": "https://i.loli.net/2019/09/01/S25Je3KaqCrGhQy.png",
-          "label": []
-        },
-        {
-          "url": "https://moe.best/",
-          "title": "神代綺凜の萌化小基地",
-          "describe": "万物皆可萌★(*＞Ｖ＜)ゞ*゜+",
-          "lang": [],
-          "master": {},
-          "img": "https://moe.best/about/assets/images/kilin.png",
           "label": []
         },
         {
@@ -670,15 +714,6 @@
           "label": []
         },
         {
-          "url": "https://ketchuppp.xyz/",
-          "title": "Ketchuppp",
-          "describe": "萌新中的萌新",
-          "lang": [],
-          "master": {},
-          "img": "https://cdn.acwing.com/media/user/profile/photo/6828_lg_1109ff0c52.jpg",
-          "label": []
-        },
-        {
           "url": "https://hsiangfeng.github.io/",
           "title": "Ray",
           "describe": "歡迎來到網頁世界",
@@ -724,15 +759,6 @@
           "label": []
         },
         {
-          "url": "https://blog.kelu.org/",
-          "title": "血衫非弧の一存",
-          "describe": "",
-          "lang": [],
-          "master": {},
-          "img": "https://kelu.org/images/profile-1-640x640.jpg",
-          "label": []
-        },
-        {
           "url": "https://99nerocake.wordpress.com/",
           "title": "99NeroCake",
           "describe": "祇園精舍弦聲起、諸行無常浄瑠璃",
@@ -748,15 +774,6 @@
           "lang": [],
           "master": {},
           "img": "https://cdn.jsdelivr.net/gh/Mark-1215/CDN/uploads/logo/tx.jpg",
-          "label": []
-        },
-        {
-          "url": "https://502.li/",
-          "title": "木子",
-          "describe": "",
-          "lang": [],
-          "master": {},
-          "img": "https://blog.k8s.li/avatar.png",
           "label": []
         },
         {
@@ -784,15 +801,6 @@
           "lang": [],
           "master": {},
           "img": "https://www.hanyibo.com/usr/themes/default/img/favicon.png",
-          "label": []
-        },
-        {
-          "url": "https://rikumi.github.io/",
-          "title": "/rkm/",
-          "describe": "Can you hear me?",
-          "lang": [],
-          "master": {},
-          "img": "https://i.loli.net/2020/09/25/9KYFDOJExs6m3HN.jpg",
           "label": []
         },
         {
@@ -829,15 +837,6 @@
           "lang": [],
           "master": {},
           "img": "https://aboutme.imgix.net/background/users/e/h/l/ehlxr_1511921340_869.jpg",
-          "label": []
-        },
-        {
-          "url": "https://nova.moe/",
-          "title": "Nova Kwok's Awesome Blog",
-          "describe": "",
-          "lang": [],
-          "master": {},
-          "img": "https://avatars1.githubusercontent.com/u/24852034?s=460&u=40bf9af28133cdbcdbd405f8882291a04750e1d5&v=4",
           "label": []
         },
         {
@@ -949,21 +948,21 @@
           "label": []
         },
         {
+          "url": "https://www.oxxostudio.tw/",
+          "title": "OXXO.STUDIO",
+          "describe": "Design thinking is everywhere",
+          "lang": [],
+          "master": {},
+          "img": "https://www.oxxostudio.tw/img/articles/201405/about-me.jpg",
+          "label": []
+        },
+        {
           "url": "https://blog.moew.xyz/",
           "title": "风痕's Blog",
           "describe": "Let's debug the world together.",
           "lang": [],
           "master": {},
           "img": "https://i.loli.net/2020/09/25/r8ByaSo4h3KuC6Z.jpg",
-          "label": []
-        },
-        {
-          "url": "https://blog.tcwq.tech/",
-          "title": "Captain 雪ノ下八幡",
-          "describe": "",
-          "lang": [],
-          "master": {},
-          "img": "https://blog.tcwq.tech/img/avatar.png",
           "label": []
         },
         {
@@ -1018,15 +1017,6 @@
           "lang": [],
           "master": {},
           "img": "https://blog.gtwang.org/wp-content/uploads/2015/03/gtwang-logo-blue-1024x1024-300x300.png",
-          "label": []
-        },
-        {
-          "url": "https://www.giuem.com/",
-          "title": "BLOG @ GIUEM",
-          "describe": "你会是怎样的 Friends 呢？",
-          "lang": [],
-          "master": {},
-          "img": "https://i.loli.net/2020/09/25/h7BpK4YrXMJzUq6.jpg",
           "label": []
         },
         {
@@ -1199,12 +1189,246 @@
           "master": {},
           "img": "https://avatars3.githubusercontent.com/u/13451020?s=460&u=7a323448450740531c2fc74f0860654e0a3bfc29&v=4",
           "label": []
+        },
+        {
+          "url": "https://www.cokemine.com/",
+          "title": "可乐博客",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "https://www.cokemine.com/img/avatar.png",
+          "label": []
+        },
+        {
+          "url": "https://www.moe.lol/",
+          "title": "HappyMoe",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "https://www.moe.lol/images/avatar.jpg",
+          "label": []
+        },
+        {
+          "url": "https://spencerwoo.com/",
+          "title": "Spencer's Blog",
+          "describe": "阿巴阿巴 o((>ω< ))o",
+          "lang": [],
+          "master": {},
+          "img": "https://i.loli.net/2020/10/18/Gfmk8cdr2HN7aWM.jpg",
+          "label": []
+        },
+        {
+          "url": "https://jackieliu.win/",
+          "title": "Jackie Liu's Blog",
+          "describe": "Born to be proud",
+          "lang": [],
+          "master": {},
+          "img": "https://jackieliu.win/img/logo.jpg",
+          "label": []
+        },
+        {
+          "url": "https://betakuang.me/",
+          "title": "beta",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "https://i.loli.net/2020/10/18/td4kGxRZiayzT81.jpg",
+          "label": []
+        },
+        {
+          "url": "https://monsterx.cn/",
+          "title": "Monstx's Blog",
+          "describe": "一只怠惰的臭弟弟 つ﹏⊂",
+          "lang": [],
+          "master": {},
+          "img": "https://rmt.dogedoge.com/fetch/tingle/storage/animal.png?w=100&h=100&fmt=webp",
+          "label": []
+        },
+        {
+          "url": "https://www.heartnn.com/",
+          "title": "heartnn的自留地",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "https://i.loli.net/2020/10/18/SPV45M3lHvKr1up.jpg",
+          "label": []
+        },
+        {
+          "url": "https://ridiqulous.com/",
+          "title": "RidiQulous",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "https://images.ridiqulous.com/about.jpg",
+          "label": []
+        },
+        {
+          "url": "https://www.racecoder.com/",
+          "title": "这破站",
+          "describe": "念念不忘，必有回响",
+          "lang": [],
+          "master": {},
+          "img": "https://p1.music.126.net/OP0ryKaxfX6x3oWtqhHIWA==/3378799233327762.jpg?param=80y80s",
+          "label": []
+        },
+        {
+          "url": "https://andychen.tk/",
+          "title": "Hydropower Hub",
+          "describe": "また，一緒に輝きだい.",
+          "lang": [],
+          "master": {},
+          "img": "https://andychen.tk/images/avatar.jpg",
+          "label": []
+        },
+        {
+          "url": "https://lala.im/",
+          "title": "荒岛",
+          "describe": "分享创造快乐",
+          "lang": [],
+          "master": {},
+          "img": "",
+          "label": []
+        },
+        {
+          "url": "https://yanhaijing.com/",
+          "title": "颜海镜",
+          "describe": "专注Web前端",
+          "lang": [],
+          "master": {},
+          "img": "https://avatars2.githubusercontent.com/u/3192087?s=460&v=4",
+          "label": []
+        },
+        {
+          "url": "https://titangene.github.io/",
+          "title": "Titangene",
+          "describe": "利用 blog 紀錄學習歷程",
+          "lang": [],
+          "master": {},
+          "img": "https://titangene.github.io/images/avatar.jpg",
+          "label": []
+        },
+        {
+          "url": "https://lightcss.com/",
+          "title": "Sivan's Blog",
+          "describe": "一念心清凈，走進極樂境",
+          "lang": [],
+          "master": {},
+          "img": "",
+          "label": []
+        },
+        {
+          "url": "https://molunerfinn.com/",
+          "title": "MARKSZのBlog",
+          "describe": "Do what you love,Love what you do",
+          "lang": [],
+          "master": {},
+          "img": "",
+          "label": []
+        },
+        {
+          "url": "https://blog.zthxxx.me/",
+          "title": "猫尾 と 香辛料",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "https://avatars1.githubusercontent.com/u/15135943?s=460&u=b37f5efa16d1c2c1522e19dee1f950fbb5c2ade0&v=4",
+          "label": []
+        },
+        {
+          "url": "https://www.elietio.xyz/",
+          "title": "零の轨迹",
+          "describe": "Sic Parvis Magna",
+          "lang": [],
+          "master": {},
+          "img": "https://www.elietio.xyz/images/avatar.png",
+          "label": []
+        },
+        {
+          "url": "https://www.elietio.xyz/",
+          "title": "零の轨迹",
+          "describe": "Sic Parvis Magna",
+          "lang": [],
+          "master": {},
+          "img": "https://www.elietio.xyz/images/avatar.png",
+          "label": []
+        },
+        {
+          "url": "https://spacefan.github.io/",
+          "title": "Spacefan",
+          "describe": "真正的幸福不显山露水，它摒弃浮华和喧嚣。",
+          "lang": [],
+          "master": {},
+          "img": "",
+          "label": []
+        },
+        {
+          "url": "https://shipengliang.com/",
+          "title": "时鹏亮的blog",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "",
+          "label": []
+        },
+        {
+          "url": "https://dragonfly.fun/",
+          "title": "蜻蜓的窝",
+          "describe": "蜻蜓特派员的小窝",
+          "lang": [],
+          "master": {},
+          "img": "https://cdn.dragonfly.fun/img/author.jpg",
+          "label": []
+        },
+        {
+          "url": "https://blog.hly0928.com/",
+          "title": "Steven's Blog",
+          "describe": "大学萌新的普通 Blog",
+          "lang": [],
+          "master": {},
+          "img": "https://blog.hly0928.com/images/avatar.png",
+          "label": []
+        },
+        {
+          "url": "https://www.nickjun.com/",
+          "title": "NickJun's Blog",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "",
+          "label": []
+        },
+        {
+          "url": "https://blog.rin.moe/",
+          "title": "Rin的Blog",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "https://blog.rin.moe/img/avatar.jpg",
+          "label": []
+        },
+        {
+          "url": "https://blog.ichr.me/",
+          "title": "ChrAlpha Blog",
+          "describe": "你必须拼尽全力，才能显得毫不费力",
+          "lang": [],
+          "master": {},
+          "img": "https://i.loli.net/2020/10/19/LvxMukrYnU8tqFG.png",
+          "label": []
+        },
+        {
+          "url": "https://blog.laoooo.cn:88/",
+          "title": "Lao's Blog",
+          "describe": "练习Bug时长两年半的程序员",
+          "lang": [],
+          "master": {},
+          "img": "https://img.laoooo.cn:88/2019/07/18/5d2ff27c66a50.jpeg",
+          "label": []
         }
       ]
     },
     {
       "name": "Finale",
-      "describe": "Dawn of East End",
+      "describe": "永恒不变的生命赐予光芒~ 今天你更新了吗？",
       "assets": [
         {
           "url": "https://tips.foair.me/",
