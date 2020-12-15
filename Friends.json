@@ -6,6 +6,15 @@
       "describe": "交换过友链的朋友们~",
       "assets": [
         {
+          "url": "https://nek0ri.de",
+          "title": "猫梨の部屋",
+          "describe": "",
+          "lang": [],
+          "master": {},
+          "img": "https://pic.imgdb.cn/item/5fd091373ffa7d37b302516c.jpg",
+          "label": []
+        },
+        {
           "url": "https://blog.gloriousdays.pw/",
           "title": "GLORIOUS DAYS",
           "describe": "「私が戻ってきたのはね。 もう一度、星の音を聞くためだよ」—— 姫野 星奏",
