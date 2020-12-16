@@ -12,6 +12,12 @@
           "img": "https://pic.imgdb.cn/item/5fd091373ffa7d37b302516c.jpg"
         },
         {
+          "url": "https://blog.spinmry.moe/",
+          "title": "spinmry's Lab",
+          "describe": "社会学研究 +6",
+          "img": "https://p1.music.126.net/kIuVoOQfZZFCXg0-AOEPDg==/18555358232512730.jpg"
+        },
+        {
           "url": "https://blog.gloriousdays.pw/",
           "title": "GLORIOUS DAYS",
           "describe": "「私が戻ってきたのはね。 もう一度、星の音を聞くためだよ」—— 姫野 星奏",
@@ -70,12 +76,6 @@
           "title": "Memo von EFS",
           "describe": "EFS的备忘录",
           "img": "https://cache.amefs.net/wp-content/uploads/2018/12/19060406/BlueEFS-Small-350x350.png"
-        },
-        {
-          "url": "https://blog.spinmry.moe/",
-          "title": "spinmry's 实验室",
-          "describe": "御宅族/OIer/高中狗/计科爱好者/Emacs厨/车万狗",
-          "img": "https://p1.music.126.net/kIuVoOQfZZFCXg0-AOEPDg==/18555358232512730.jpg"
         },
         {
           "url": "https://breakertt.moe/",
@@ -232,12 +232,6 @@
           "title": "Anankke's Blog",
           "describe": "Falling Into The Abyss.",
           "img": "https://i.loli.net/2018/10/17/5bc72eae899ad.jpg"
-        },
-        {
-          "url": "https://paperneko.moe/",
-          "title": "//初中生未滿的紙喵把標題扔掉啦",
-          "describe": "SAPIENTIA EST ARS BONI ET AEQUI",
-          "img": "https://paperneko.moe/wp-content/uploads/2018/02/WangWang20171220192157.jpg"
         },
         {
           "url": "https://blog.toby.moe/",
@@ -504,12 +498,6 @@
           "img": "https://www.fiisi.com/wp-content/uploads/2017/10/IMG_20171027_094802.jpg"
         },
         {
-          "url": "https://www.hanyibo.com/",
-          "title": "韩艺博的博客",
-          "describe": "",
-          "img": "https://www.hanyibo.com/usr/themes/default/img/favicon.png"
-        },
-        {
           "url": "https://blog.moli.rocks/",
           "title": "MOLi Blog",
           "describe": "Thoughts, stories and ideas.",
@@ -550,12 +538,6 @@
           "title": "Wi1dcard",
           "describe": "",
           "img": "https://www.gravatar.com/avatar/9f1da8f9f5768d71d3f2e996e04af47a?s=200"
-        },
-        {
-          "url": "https://makazeu.win/",
-          "title": "Makazeu's Blog",
-          "describe": "",
-          "img": "https://makazeu.win/img/avatar.jpg"
         },
         {
           "url": "https://www.xde.io/",
@@ -642,12 +624,6 @@
           "img": "https://avatars1.githubusercontent.com/u/39155974?s=460&u=410eaa89f567d6550f78e9696888ab09e3d0335c&v=4"
         },
         {
-          "url": "https://xerlang.github.io/",
-          "title": "小学堂",
-          "describe": "",
-          "img": "https://avatars0.githubusercontent.com/u/34172455?s=460&v=4"
-        },
-        {
           "url": "https://blog.gtwang.org/",
           "title": "G. T. Wang",
           "describe": "",
@@ -700,12 +676,6 @@
           "title": "Siphilsの日常",
           "describe": "Life is what you make it.",
           "img": "https://cn.gravatar.com/avatar/9d05d12216701bf5135894c55232ae99?d=mp&r=g&s=512"
-        },
-        {
-          "url": "https://blog.ylx.me/",
-          "title": "HJM",
-          "describe": "",
-          "img": ""
         },
         {
           "url": "https://ricterz.me/",
@@ -1061,6 +1031,18 @@
       "name": "Finale",
       "describe": "永恒不变的生命赐予光芒~ 今天你更新了吗？",
       "assets": [
+        {
+          "url": "https://makazeu.win/",
+          "title": "Makazeu's Blog",
+          "describe": "",
+          "img": "https://makazeu.win/img/avatar.jpg"
+        },
+        {
+          "url": "https://paperneko.moe/",
+          "title": "//初中生未滿的紙喵把標題扔掉啦",
+          "describe": "SAPIENTIA EST ARS BONI ET AEQUI",
+          "img": "https://paperneko.moe/wp-content/uploads/2018/02/WangWang20171220192157.jpg"
+        },
         {
           "url": "https://linkthis.me/",
           "title": "linkthis blog",
