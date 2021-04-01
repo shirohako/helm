@@ -1,5 +1,5 @@
 {
-  "updated": "v1.7@201216",
+  "updated": "v1.8@210401",
   "groups": [
     {
       "name": "Siegfried Kircheis",
@@ -9,67 +9,77 @@
           "url": "https://blog.atri.tk/",
           "title": "欠陥電気の摸鱼小池",
           "describe": "Misaka13514的小站",
-          "img": "https://blog.atri.tk/img/default_avatar.webp"
+          "img": "https://blog.atri.tk/img/default_avatar.webp",
+          "rss": "https://blog.atri.tk/atom.xml"
         },
         {
-          "url": "https://nek0ri.de",
+          "url": "https://nek0ri.de/",
           "title": "猫梨の部屋",
           "describe": "",
-          "img": "https://pic.imgdb.cn/item/5fd091373ffa7d37b302516c.jpg"
+          "img": "https://nek0ri.de/wp-content/uploads/2021/01/IMG_0650-scaled-e1611382473502.jpg",
+          "rss": "https://nek0ri.de/"
         },
         {
           "url": "https://blog.spinmry.moe/",
           "title": "spinmry's Lab",
           "describe": "社会学研究 +6",
-          "img": "https://p1.music.126.net/kIuVoOQfZZFCXg0-AOEPDg==/18555358232512730.jpg"
+          "img": "https://blog.spinmry.moe/avatar.jpg",
+          "rss": "https://blog.spinmry.moe/feeds"
         },
         {
           "url": "https://blog.gloriousdays.pw/",
           "title": "GLORIOUS DAYS",
           "describe": "「私が戻ってきたのはね。 もう一度、星の音を聞くためだよ」—— 姫野 星奏",
-          "img": "https://i.loli.net/2019/09/27/Fs1wmcrRu7H9GiC.jpg"
+          "img": "https://ae01.alicdn.com/kf/U80772ed7592d4ea6b10a2307d55ec5fad.jpg",
+          "rss": "https://blog.gloriousdays.pw/feed/"
         },
         {
           "url": "https://batora.ushiromiya.com",
           "title": "「猫箱内の六軒島」",
           "describe": "うみねこのなく頃に，誰も生き残れはしない。",
-          "img": "https://secure.gravatar.com/avatar/1e4b72c9f00126cbd1c31d4254165d2e?s=400"
+          "img": "https://ae01.alicdn.com/kf/U854d702dfcce4da7bae002243a3d4673O.jpg",
+          "rss": "https://batora.ushiromiya.com/feed/atom/"
         },
         {
           "url": "https://lolioi.moe",
           "title": "小代理の记事簿",
           "describe": "音容仍在，物是人非",
-          "img": "https://cdn.v2ex.com/gravatar/3c3e8f988034ee9541774c7865c1c103?s=256"
+          "img": "https://cdn.v2ex.com/gravatar/3c3e8f988034ee9541774c7865c1c103?s=256",
+          "rss": "https://lolioi.moe/feed/atom/"
         },
         {
           "url": "https://blog.conoha.vip/",
           "title": "鹅窝",
           "describe": "一只辣鸡鹅の窝",
-          "img": "https://blog.conoha.vip/moe/favicon.jpg"
+          "img": "https://blog.conoha.vip/moe/favicon.jpg",
+          "rss": "https://blog.conoha.vip/feed/atom/"
         },
         {
           "url": "https://blog.meow.page",
           "title": "驱蚊器喵的插座",
           "describe": "",
-          "img": "https://blog.meow.page/img/avatar.jpg"
+          "img": "https://blog.meow.page/img/avatar.jpg",
+          "rss": "https://blog.meow.page/atom.xml"
         },
         {
           "url": "https://www.moerats.com",
           "title": "Rat's Blog",
           "describe": "相逢的人会再相逢",
-          "img": "https://www.moerats.com/usr/picture/rats.png"
+          "img": "https://www.moerats.com/usr/picture/rats.png",
+          "rss": "https://www.moerats.com/feed/atom/"
         },
         {
           "url": "https://acg.blue",
           "title": "Xinger",
           "describe": "",
-          "img": "https://acg.blue/wp-content/uploads/2018/11/9358d109b3de9c820165076e6081800a18d843cb.jpg"
+          "img": "https://ae01.alicdn.com/kf/Udc45db4a264a40028762b886cee53a4fc.jpg"
         },
         {
           "url": "https://bxaw.name",
           "title": "白熊阿丸的小屋",
           "describe": "这里有一个真实的我 / 如果有幸你来到了这里 / 我会告诉你我的一切",
-          "img": "https://secure.gravatar.com/avatar/21531185e8296f70da566b68d3fc9785?s=400"
+          "img": "https://ae01.alicdn.com/kf/U1fcf58dba082476eb02f4a81de85c0eeC.jpg",
+          "rss": "https://www.bxaw.name/feed"
         }
       ]
     },
