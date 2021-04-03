@@ -17,14 +17,14 @@
           "title": "猫梨の部屋",
           "describe": "",
           "img": "https://nek0ri.de/wp-content/uploads/2021/01/IMG_0650-scaled-e1611382473502.jpg",
-          "rss": "https://nek0ri.de/"
+          "rss": "https://nek0ri.de/feed/"
         },
         {
           "url": "https://blog.spinmry.moe/",
           "title": "spinmry's Lab",
           "describe": "社会学研究 +6",
           "img": "https://blog.spinmry.moe/avatar.jpg",
-          "rss": "https://blog.spinmry.moe/feeds"
+          "rss": "https://blog.spinmry.moe/feeds/"
         },
         {
           "url": "https://blog.gloriousdays.pw/",
@@ -39,13 +39,6 @@
           "describe": "うみねこのなく頃に，誰も生き残れはしない。",
           "img": "https://ae01.alicdn.com/kf/U854d702dfcce4da7bae002243a3d4673O.jpg",
           "rss": "https://batora.ushiromiya.com/feed/atom/"
-        },
-        {
-          "url": "https://lolioi.moe",
-          "title": "小代理の记事簿",
-          "describe": "音容仍在，物是人非",
-          "img": "https://cdn.v2ex.com/gravatar/3c3e8f988034ee9541774c7865c1c103?s=256",
-          "rss": "https://lolioi.moe/feed/atom/"
         },
         {
           "url": "https://blog.conoha.vip/",
@@ -91,25 +84,27 @@
           "url": "https://amefs.net/",
           "title": "Memo von EFS",
           "describe": "EFS的备忘录",
-          "img": "https://cache.amefs.net/wp-content/uploads/2018/12/19060406/BlueEFS-Small-350x350.png"
+          "img": "https://cache.amefs.net/wp-content/uploads/2018/12/19060406/BlueEFS-Small-350x350.png",
+          "rss": "https://amefs.net/feed"
         },
         {
           "url": "https://breakertt.moe/",
           "title": "Breakertt Blog",
-          "describe": "宁愿居无定所地过一生",
+          "describe": "一起实现梦想的故事!",
           "img": "https://breakertt.moe/img/default_avatar.png"
         },
         {
           "url": "https://tautcony.xyz/",
           "title": "TC Blog",
           "describe": "ようこそ　僕のページへ",
-          "img": "https://tautcony.xyz/img/avatar-tautcony.jpg"
+          "img": "https://tautcony.xyz/img/avatar-tautcony.jpg",
+          "rss": "https://tautcony.xyz/feed"
         },
         {
           "url": "https://chanshiyu.com/",
           "title": "蝉時雨",
           "describe": "蝉鸣如雨 花宵道中",
-          "img": "https://i.loli.net/2018/12/09/5c0cc2b4e0195.png"
+          "img": "https://cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/avatar.jpg"
         },
         {
           "url": "http://flankoi.org/",
@@ -202,10 +197,10 @@
           "img": "https://secure.gravatar.com/avatar/ca204b570aced1444212adaf35aaa028?s=500"
         },
         {
-          "url": "https://502.li/",
+          "url": "https://k8s.li/",
           "title": "木子",
           "describe": "",
-          "img": "https://i.loli.net/2020/10/18/pbDZzUaoOcAlwhX.png"
+          "img": "https://ae01.alicdn.com/kf/U066546517c764dbbb192db31ff927d81P.jpg"
         },
         {
           "url": "https://nova.moe/",
@@ -235,7 +230,7 @@
           "url": "https://www.jackpu.com/",
           "title": "Jack Pu's Blog",
           "describe": "This Is The Way",
-          "img": "https://avatars0.githubusercontent.com/u/4744967"
+          "img": "https://ae01.alicdn.com/kf/Uaf6592e037f34fb8b64dae649307d75bp.jpg"
         },
         {
           "url": "https://blog.anank.ke/",
@@ -244,16 +239,16 @@
           "img": "https://i.loli.net/2018/10/17/5bc72eae899ad.jpg"
         },
         {
-          "url": "https://blog.toby.moe/",
-          "title": "Toby's 次元裂缝",
+          "url": "https://toby.moe/",
+          "title": "Toby's 神秘实验室",
           "describe": "An observer of the world.",
-          "img": "https://blog.toby.moe/content/images/2018/03/satania.jpg"
+          "img": "https://ae01.alicdn.com/kf/U84ed701297224b76b0bf01cb59e344ccz.jpg"
         },
         {
           "url": "https://www.omyleon.com/",
           "title": "Lawler's Blog",
           "describe": "You Will Always Be My Dream.",
-          "img": "https://avatars1.githubusercontent.com/u/38933451?s=460&v=4"
+          "img": "https://ae01.alicdn.com/kf/Ue85374b1dd0c4dc9a18d7e25891a75f0z.jpg"
         },
         {
           "url": "https://www.oysterqaq.com/",
@@ -334,7 +329,7 @@
           "img": "https://i.loli.net/2019/09/01/S25Je3KaqCrGhQy.png"
         },
         {
-          "url": "https://blog.einverne.info/",
+          "url": "https://einverne.github.io/",
           "title": "Verne in GitHub",
           "describe": "",
           "img": "https://avatars3.githubusercontent.com/u/1962738?s=460&v=4"
@@ -608,12 +603,6 @@
           "title": "零件's Blog",
           "describe": "Tech Otakus Save The World",
           "img": "https://i.loli.net/2020/03/30/FTOUCr4mzsvu7IM.jpg"
-        },
-        {
-          "url": "https://www.blackglory.me/",
-          "title": "BlackGlory",
-          "describe": "It's nothing",
-          "img": "https://avatars3.githubusercontent.com/u/1365962?s=460&v=4"
         },
         {
           "url": "https://tari0510.github.io/",
@@ -968,6 +957,12 @@
           "title": "毎日のんびり日本語教師",
           "describe": "",
           "img": ""
+        },
+        {
+          "url": "https://makazeu.win/",
+          "title": "Makazeu's Blog",
+          "describe": "",
+          "img": "https://makazeu.win/img/avatar.jpg"
         }
       ]
     },
@@ -980,12 +975,6 @@
           "title": "猫尾 と 香辛料",
           "describe": "",
           "img": "https://avatars1.githubusercontent.com/u/15135943?s=460&u=b37f5efa16d1c2c1522e19dee1f950fbb5c2ade0&v=4"
-        },
-        {
-          "url": "https://makazeu.win/",
-          "title": "Makazeu's Blog",
-          "describe": "",
-          "img": "https://makazeu.win/img/avatar.jpg"
         },
         {
           "url": "https://paperneko.moe/",
@@ -1052,6 +1041,12 @@
           "title": "boday's blog",
           "describe": "杂物堆放地",
           "img": "https://pbs.twimg.com/profile_images/731647494287806464/E3qM18nl_400x400.jpg"
+        },
+        {
+          "url": "https://www.blackglory.me/",
+          "title": "BlackGlory",
+          "describe": "It's nothing",
+          "img": "https://avatars3.githubusercontent.com/u/1365962?s=460&v=4"
         }
       ]
     }
