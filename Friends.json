@@ -256,7 +256,7 @@
           "title": "Anankke's Blog",
           "describe": "Falling Into The Abyss.",
           "img": "https://i.loli.net/2018/10/17/5bc72eae899ad.jpg",
-          "rss": "https://blog.anank.ke/"
+          "rss": "https://blog.anank.ke/feed"
         },
         {
           "url": "https://toby.moe/",
@@ -269,8 +269,7 @@
           "url": "https://www.omyleon.com/",
           "title": "Lawler's Blog",
           "describe": "You Will Always Be My Dream.",
-          "img": "https://ae01.alicdn.com/kf/Ue85374b1dd0c4dc9a18d7e25891a75f0z.jpg",
-          "rss": "https://www.omyleon.com/atom.xml"
+          "img": "https://ae01.alicdn.com/kf/Ue85374b1dd0c4dc9a18d7e25891a75f0z.jpg"
         },
         {
           "url": "https://www.oysterqaq.com/",
@@ -492,7 +491,7 @@
           "title": "upupming 的博客",
           "describe": "In real open source, you have the right to control your own destiny.",
           "img": "https://avatars1.githubusercontent.com/u/24741764?v=4",
-          "rss": "https://upupming.site/rss/"
+          "rss": "https://upupming.site/atom.xml"
         },
         {
           "url": "https://99nerocake.wordpress.com/",
@@ -511,8 +510,7 @@
           "url": "https://www.fiisi.com/",
           "title": "风萧萧兮易水寒",
           "describe": "So bad,Yet so good.",
-          "img": "https://www.fiisi.com/wp-content/uploads/2017/10/IMG_20171027_094802.jpg",
-          "rss": "https://www.fiisi.com/rsslatest.xml"
+          "img": "https://www.fiisi.com/wp-content/uploads/2017/10/IMG_20171027_094802.jpg"
         },
         {
           "url": "https://hex.moe/",
@@ -925,8 +923,7 @@
           "url": "https://www.gazyip.cn/",
           "title": "@ギャズOfficial-",
           "describe": "我们终将知道，我们必须知道。",
-          "img": "https://gazyip.cn/file/avatar.png",
-          "rss": "https://www.gazyip.cn/feed/"
+          "img": "https://gazyip.cn/file/avatar.png"
         },
         {
           "url": "https://www.pluvet.com/",
@@ -998,46 +995,55 @@
           "url": "https://m1neralwater.com/",
           "title": "Mineralwater Xu's blog",
           "describe": "",
-          "img": "https://m1neralwater.com/pix/portrait-large.jpg"
-        },{
+          "img": "https://m1neralwater.com/pix/portrait-large.jpg",
+          "rss": "https://www.blogger.com/feeds/7255993713071198725/posts/default"
+        },
+        {
           "url": "https://blog.6yfz.cn/",
           "title": "LiuYun的博客",
           "describe": "一名CS专业的在读学生",
           "img": "https://blog.6yfz.cn/img/ly.jpg"
-        },{
+        },
+        {
           "url": "https://mary.kevinmx.tk/",
           "title": "MX 的自留地",
           "describe": "Another Dream.",
           "img": "https://mary.kevinmx.tk/usr/uploads/Youmu_Avatar.jpg",
           "rss": "https://mary.kevinmx.tk/feed/"
-        },{
+        },
+        {
           "url": "https://blog.yuuta.moe/",
           "title": "YuutaW",
           "describe": "一个萌新在探索世界的道路上留下的些许见解",
           "img": ""
-        },{
+        },
+        {
           "url": "https://zhaohuabing.com/",
           "title": "Huabing Blog",
           "describe": "路在脚下，心向远方",
           "img": "https://zhaohuabing.com/img/zhaohuabing.png"
-        },{
+        },
+        {
           "url": "https://bfchengnuo.com/",
           "title": "冰封承諾",
           "describe": "立于浮华之世,奏响天籁之音.",
           "img": "https://bfchengnuo.com/image/tx.png",
           "rss": "https://bfchengnuo.com/atom.xml"
-        },{
+        },
+        {
           "url": "https://blanboom.org/",
           "title": "BLANBOOM",
           "describe": "",
           "img": "",
           "rss": "https://blanboom.org/feed/"
-        },{
+        },
+        {
           "url": "https://nsk.gokudobar.monster/",
           "title": "任生会",
           "describe": "",
           "img": "https://nsk.gokudobar.monster/wp-content/uploads/2019/09/2cover.jpg"
-        },{
+        },
+        {
           "url": "https://tt171g.dsmynas.com/wordpress/",
           "title": "Inner Heaven",
           "describe": "My name scorched into the sky",
