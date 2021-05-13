@@ -1,5 +1,5 @@
 {
-  "Update":"2020-05-13",
+  "update": "2020-05-13",
   "groups": [
     {
       "name": "Image Search",
@@ -25,6 +25,47 @@
           "url": "https://ascii2d.net/",
           "title": "二次元画像詳細検索",
           "icon": "https://trace.moe/favicon128.png"
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "describe": "工具",
+      "icon": "mdi-image",
+      "assets": [
+        {
+          "url": "https://catbox.moe/",
+          "title": "Catbox",
+          "desc": "临时分享文件、最多200M"
+        },
+        {
+          "url": "https://www.remove.bg/",
+          "title": "remove bg",
+          "desc": "快速移除图片背景"
+        },
+        {
+          "url": "https://www.infrapedia.com/",
+          "title": "infrapedia",
+          "desc": "海缆等基础设施地图"
+        },{
+          "url": "https://beautyyu.one/full-mark-composition-generator/",
+          "title": "满分作文生成器！"
+        },{
+          "url": "https://msdn.sjjzm.com/",
+          "title": "MSDN - 山己几子木",
+          "desc": "win镜像"
+        }
+      ]
+    },
+    {
+      "name": "Language",
+      "describe": "语言",
+      "icon": "mdi-image",
+      "assets": [
+        {
+          "url": "https://www.kanjipedia.jp/",
+          "title": "kanjipedia",
+          "desc": "汉字搜索"
         }
       ]
     },
@@ -174,52 +215,134 @@
       ]
     },
     {
-      "name": "Subscriptions",
+      "name": "IDC",
       "describe": "订阅频道",
       "icon": "mdi-youtube ",
       "assets": [
         {
-          "url": "https://www.youtube.com/user/LinusTechTips",
-          "title": "Linus Tech Tips"
+          "url": "https://www.storagereview.com/",
+          "title": "storage review"
+        }
+      ]
+    },
+    {
+      "name": "Awesome",
+      "describe": "漂亮的网站",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://harumakigohan.com/",
+          "title": "harumakigohan"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "describe": "其他",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://w.atwiki.jp/gamemusicbest100/",
+          "title": "みんなで決めるゲーム音楽ベスト100まとめwiki"
         },
         {
-          "url": "https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA",
-          "title": "TechLinked"
+          "url": "https://www.storagereview.com/",
+          "title": "storage review"
         },{
-          "url": " https://www.youtube.com/user/msadaghd",
-          "title": "ElectroBOOM"
+          "url": "https://www.sakugabooru.com/post",
+          "title": "sakugabooru",
+          "desc": "作画"
         },
         {
-          "url": "https://space.bilibili.com/12434430",
-          "title": "Linus Tech Tips (Translated)"
+          "url": "https://afdian.net/",
+          "title": "爱发电",
+          "desc": "按月赞助平台"
         },
         {
-          "url": "https://space.bilibili.com/326664284",
-          "title": "TechLinked (Translated)"
+          "url": "https://www.modian.com/",
+          "title": "摩点",
+          "desc": "国内众筹平台"
         },
         {
-          "url": "https://space.bilibili.com/326664284",
-          "title": "ElectroBOOM (Translated)"
+          "url": "https://youquhome.com/",
+          "title": "有趣网址之家"
         },
         {
-          "url": "https://space.bilibili.com/25876945",
-          "title": "Geekerwan (极客湾)"
+          "url": "https://blogmura.com/",
+          "title": "にほんブログ村",
+          "desc": "人気ブログランキングとブログ検索"
+        }
+      ]
+    },
+    {
+      "name": "News",
+      "describe": "其他",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://j-mag.org/",
+          "title": "JMAG NEWS",
+          "desc": "アニメニュースサイト"
+        }
+      ]
+    },
+    {
+      "name": "kotoba",
+      "describe": "名言",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://meigen.keiziban-jp.com/",
+          "title": "心に残る名言集・格言│～最大級～"
         },
         {
-          "url": "https://www.youtube.com/user/unboxtherapy",
-          "title": "UnboxTherapy"
+          "url": "https://aniphorism.com/",
+          "title": "アニメ名言ライブラリー"
         },
         {
-          "url": "https://space.bilibili.com/115126480",
-          "title": "UnboxTherapy (Translated)"
+          "url": "https://kotobanosusume.com/",
+          "title": "本の名言サイト"
         },
         {
-          "url": "https://space.bilibili.com/427494870/",
-          "title": "硬核拆解"
+          "url": "https://kimu3.net/",
+          "title": "文脈をつなぐ",
+          "desc": "日语流行语解说"
+        }
+      ]
+    },
+    {
+      "name": "Galgame",
+      "describe": "黄油",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://www.remove.bg/",
+          "title": "VNDB",
+          "desc": "The Visual Novel Database"
         },
         {
-          "url": "https://www.youtube.com/channel/UC4zLFvnyN0zLbeqV5Xqh0sQ/videos",
-          "title": "腦控"
+          "url": "https://www.kkgal.com/",
+          "title": "忧郁的弟弟"
+        },
+        {
+          "url": "https://www.2dfan.com/",
+          "title": "2dfan"
+        },
+        {
+          "url": "https://galge.cn/",
+          "title": "萌游"
+        }
+      ]
+    },
+    {
+      "name": "design",
+      "describe": "设计",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://jelly.jd.com/designtools/all",
+          "title": "jelly",
+          "desc": "京东、设计"
         }
       ]
     }
