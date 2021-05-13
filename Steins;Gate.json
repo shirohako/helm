@@ -1,4 +1,5 @@
 {
+  "updated": "2021-05-13",
   "groups": [
     {
       "name": "Image Search",
@@ -24,6 +25,84 @@
           "url": "https://ascii2d.net/",
           "title": "二次元画像詳細検索",
           "icon": "https://trace.moe/favicon128.png"
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "describe": "工具",
+      "icon": "mdi-image",
+      "assets": [
+        {
+          "url": "https://catbox.moe/",
+          "title": "Catbox",
+          "desc": "临时分享文件、最多200M"
+        },
+        {
+          "url": "https://asciinema.org/",
+          "title": "asciinema",
+          "desc": "Record and share your terminal sessions"
+        },
+        {
+          "url": "https://www.remove.bg/",
+          "title": "remove bg",
+          "desc": "快速移除图片背景"
+        },
+        {
+          "url": "https://www.infrapedia.com/",
+          "title": "infrapedia",
+          "desc": "海缆等基础设施地图"
+        },{
+          "url": "https://beautyyu.one/full-mark-composition-generator/",
+          "title": "满分作文生成器！"
+        },{
+          "url": "https://msdn.sjjzm.com/",
+          "title": "MSDN - 山己几子木",
+          "desc": "win镜像"
+        },{
+          "url": "https://onlinesim.ru/",
+          "title": "onlinesim",
+          "desc": "虚拟号码"
+        },{
+          "url": "https://versus.com/cn",
+          "title": "versus",
+          "desc": "万物皆可对比"
+        },{
+          "url": "https://7ed.net/gra/",
+          "title": "7ED.NET SERVICES",
+          "desc": "一些服务和工具"
+        },{
+          "url": "https://app.diagrams.net/",
+          "title": "diagrams",
+          "desc": "流程图"
+        },{
+          "url": "https://awesomeopensource.com/",
+          "title": "Awesome Open Source\n",
+          "desc": "找开源项目"
+        },{
+          "url": "https://gamercards.exophase.com/",
+          "title": "exophase",
+          "desc": "steam/xbox/psn Gamercards"
+        },{
+          "url": "https://zh-hans.tld-list.com/",
+          "title": "TLD List",
+          "desc": "比较所有顶级域名的价格"
+        },{
+          "url": "https://adobe.v404.cn/adobe/",
+          "title": "adobe",
+          "desc": "adobe 全套下载"
+        },{
+          "url": "https://vitadb.rinnegatamante.it/#/plugins",
+          "title": "vitadb",
+          "desc": "psvita 工具和插件"
+        },{
+          "url": "https://nopaystation.com/",
+          "title": "NoPayStation",
+          "desc": "psvita pkg下载"
+        },{
+          "url": "https://nopaystation.com/",
+          "title": "NoPayStation",
+          "desc": "psvita pkg下载"
         }
       ]
     },
@@ -79,6 +158,10 @@
         {
           "url": "https://snow-raws.com/",
           "title": "Snow-Raws"
+        },
+        {
+          "url": "https://nyaa.net/",
+          "title": "Nyaa Pantsu"
         }
       ]
     },
@@ -169,56 +252,213 @@
           "url": "https://vocadb.net/",
           "title": "VocaDB",
           "icon": "https://vocadb.net/Content/favicon.ico"
+        },
+        {
+          "url": "https://www.tanocstore.net/",
+          "title": "tano*c store"
+        },
+        {
+          "url": "https://www.dojin-music.info/",
+          "title": "同人音楽.info"
+        },{
+          "url": "https://www.anibrary.com/",
+          "title": "あにぶらり",
+          "desc": "アニメ・アニソン・人物データベース\n"
+        },
+        {
+          "url": "https://www.followlyrics.com/",
+          "title": "followlyrics",
+          "desc": "Search for lyrics\n"
+        },
+        {
+          "url": "https://www.musixmatch.com/",
+          "title": "musixmatch",
+          "desc": "歌词搜索"
         }
       ]
     },
     {
-      "name": "Subscriptions",
+      "name": "Language",
+      "describe": "语言",
+      "icon": "mdi-image",
+      "assets": [
+        {
+          "url": "https://www.kanjipedia.jp/",
+          "title": "kanjipedia",
+          "desc": "汉字搜索"
+        },
+        {
+          "url": "https://bizushiki.com/",
+          "title": "ビズ式",
+          "desc":"商用书信、邮件例文"
+        }
+      ]
+    },
+    {
+      "name": "IDC / VPS",
       "describe": "订阅频道",
       "icon": "mdi-youtube ",
       "assets": [
         {
-          "url": "https://www.youtube.com/user/LinusTechTips",
-          "title": "Linus Tech Tips"
+          "url": "https://www.storagereview.com/",
+          "title": "storage review"
+        }
+      ]
+    },
+    {
+      "name": "Awesome",
+      "describe": "漂亮的网站",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://harumakigohan.com/",
+          "title": "harumakigohan"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "describe": "其他",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://w.atwiki.jp/gamemusicbest100/",
+          "title": "みんなで決めるゲーム音楽ベスト100まとめwiki"
         },
         {
-          "url": "https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA",
-          "title": "TechLinked"
+          "url": "https://www.storagereview.com/",
+          "title": "storage review"
         },{
-          "url": " https://www.youtube.com/user/msadaghd",
-          "title": "ElectroBOOM"
+          "url": "https://www.sakugabooru.com/post",
+          "title": "sakugabooru",
+          "desc": "作画"
         },
         {
-          "url": "https://space.bilibili.com/12434430",
-          "title": "Linus Tech Tips (Translated)"
+          "url": "https://afdian.net/",
+          "title": "爱发电",
+          "desc": "按月赞助平台"
         },
         {
-          "url": "https://space.bilibili.com/326664284",
-          "title": "TechLinked (Translated)"
+          "url": "https://www.modian.com/",
+          "title": "摩点",
+          "desc": "国内众筹平台"
         },
         {
-          "url": "https://space.bilibili.com/326664284",
-          "title": "ElectroBOOM (Translated)"
+          "url": "https://youquhome.com/",
+          "title": "有趣网址之家"
         },
         {
-          "url": "https://space.bilibili.com/25876945",
-          "title": "Geekerwan (极客湾)"
+          "url": "https://blogmura.com/",
+          "title": "にほんブログ村",
+          "desc": "人気ブログランキングとブログ検索"
+        }
+      ]
+    },
+    {
+      "name": "News",
+      "describe": "其他",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://j-mag.org/",
+          "title": "JMAG NEWS",
+          "desc": "アニメニュースサイト"
         },
         {
-          "url": "https://www.youtube.com/user/unboxtherapy",
-          "title": "UnboxTherapy"
+          "url": "https://www.expreview.com/",
+          "title": "超能网"
+        }
+      ]
+    },
+    {
+      "name": "kotoba",
+      "describe": "名言",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://meigen.keiziban-jp.com/",
+          "title": "心に残る名言集・格言│～最大級～"
         },
         {
-          "url": "https://space.bilibili.com/115126480",
-          "title": "UnboxTherapy (Translated)"
+          "url": "https://aniphorism.com/",
+          "title": "アニメ名言ライブラリー"
         },
         {
-          "url": "https://space.bilibili.com/427494870/",
-          "title": "硬核拆解"
+          "url": "https://kotobanosusume.com/",
+          "title": "本の名言サイト"
         },
         {
-          "url": "https://www.youtube.com/channel/UC4zLFvnyN0zLbeqV5Xqh0sQ/videos",
-          "title": "腦控"
+          "url": "https://zh.wikiquote.org/wiki/%E9%8A%80%E6%B2%B3%E8%8B%B1%E9%9B%84%E5%82%B3%E8%AA%AA",
+          "title": "wikiquote",
+          "desc": "wikiquote/銀河英雄傳說"
+        },
+        {
+          "url": "https://kimu3.net/",
+          "title": "文脈をつなぐ",
+          "desc": "日语流行语解说"
+        }
+      ]
+    },
+    {
+      "name": "Galgame",
+      "describe": "黄油",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://www.remove.bg/",
+          "title": "VNDB",
+          "desc": "The Visual Novel Database"
+        },
+        {
+          "url": "https://www.kkgal.com/",
+          "title": "忧郁的弟弟"
+        },
+        {
+          "url": "https://galge.fun/",
+          "title": "2dfan"
+        },
+        {
+          "url": "https://galge.cn/",
+          "title": "萌游"
+        }
+      ]
+    },
+    {
+      "name": "Web Design",
+      "describe": "设计",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://dev.to/",
+          "title":"dev.to",
+          "desc": "web设计"
+        },{
+          "url": "https://www.gameuidatabase.com/",
+          "title":"Game UI Database"
+        },
+        {
+          "url": "https://jelly.jd.com/designtools/all",
+          "title": "jelly",
+          "desc": "京东、设计"
+        },
+        {
+          "url": "https://codesandbox.io/explore",
+          "title": "codesandbox"
+        },
+        {
+          "url": "https://dribbble.com/",
+          "title": "dribbble"
+        }
+      ]
+    },
+    {
+      "name": "HACG",
+      "describe": "R18内容",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://hitomi.la/",
+          "title": "hitomi"
         }
       ]
     }
