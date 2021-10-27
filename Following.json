@@ -1,5 +1,5 @@
 {
-  "updated": "v1.9@210513",
+  "updated": "v1.10@211027",
   "groups": [
     {
       "name": "订阅中 ~",
@@ -1028,6 +1028,180 @@
           "title": "矢澤にこ",
           "describe": "",
           "img": "https://i.loli.net/2020/09/25/FrYWlZLfwIso8Xj.jpg"
+        },
+        {
+          "url": "https://howiezhao.github.io/",
+          "title": "Howie Zhao",
+          "describe": "Stay Hungry, Stay Foolish",
+          "img": "https://howiezhao.github.io/images/avatar.jpg"
+        },
+        {
+          "url": "https://mmf.moe/",
+          "title": "某昨P",
+          "describe": "Ingress R9/Computer Sciense",
+          "img": "https://mmf.moe/assets/icon.jpeg"
+        },
+        {
+          "url": "https://24dian30.com/",
+          "title": "萌茶",
+          "describe": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+          "img": "https://cdn.v2ex.com/gravatar/92533f3833914d5f2c0004cef6cfd1ab?s=96&d=retro&r=g"
+        },
+        {
+          "url": "https://blackmickeysvp.blogspot.com/",
+          "title": "黑米奇SVP",
+          "describe": "",
+          "img": "https://ae01.alicdn.com/kf/Hfc61c450668c45328f356fecadae44799.jpg"
+        },
+        {
+          "url": "https://blackmickeysvp.blogspot.com/",
+          "title": "黑米奇SVP",
+          "describe": "",
+          "img": "https://ae01.alicdn.com/kf/Hfc61c450668c45328f356fecadae44799.jpg"
+        },
+        {
+          "url": "https://blackmickeysvp.blogspot.com/",
+          "title": "黑米奇SVP",
+          "describe": "",
+          "img": "https://ae01.alicdn.com/kf/Hfc61c450668c45328f356fecadae44799.jpg"
+        },
+        {
+          "url": "https://szclsya.me/zh-cn/posts/",
+          "title": "Leo's Field",
+          "describe": "我是 Leo. 如果你在哪看到了一个叫 szclsya 的家伙，那大概率就是我.",
+          "img": "https://ae01.alicdn.com/kf/Hc260edd6bb674614be166cbffc14e5bcf.png"
+        },
+        {
+          "url": "https://weepingdogel.github.io/",
+          "title": "WeepingDogel's Blog",
+          "describe": "Write to share.",
+          "img": "https://ae01.alicdn.com/kf/H7d68596a65a940a79c1b644982c4d0fdP.png"
+        },
+        {
+          "url": "https://ednovas.xyz/",
+          "title": "EdNovas 的小站",
+          "describe": "人生不止眼前的苟且，还有诗与远方",
+          "img": "https://cdn.jsdelivr.net/gh/wdm1732418365/CDN/New%20folder/icon.png"
+        },
+        {
+          "url": "https://h3a.moe/",
+          "title": "iLLusion of the Mysterious Cat",
+          "describe": "Pretending we're back where we started",
+          "img": "https://ae01.alicdn.com/kf/Hcd2fbb2e6d4649e383bb97fabfc8447bx.jpg"
+        },
+        {
+          "url": "https://ulyc.github.io/",
+          "title": "UlyC",
+          "describe": "我见到过地狱与天堂的婚礼，战舰在猎户座肩旁熊熊燃烧",
+          "img": "https://ulyc.github.io/img/%E5%A4%B4%E5%83%8F.jpg"
+        },
+        {
+          "url": "https://miaotony.xyz/",
+          "title": "MiaoTony's小窝",
+          "describe": "仰望星空，脚踏实地，未来可期",
+          "img": "https://cdn.jsdelivr.net/gh/miaotony/miaotony.github.io@master/medias/logo.png"
+        },
+        {
+          "url": "https://blog.linux.dog/",
+          "title": "蕾咪IOの窝",
+          "describe": "",
+          "img": "https://ae01.alicdn.com/kf/H69e149d8951e4e7cbe3ea6a1e92ebe473.jpg"
+        },
+        {
+          "url": "https://blog.blinkstar.cn/",
+          "title": "Serence",
+          "describe": "一个让人安宁，且充满热情的地方",
+          "img": "https://avatars.githubusercontent.com/u/45459572?v=4"
+        },
+        {
+          "url": "https://fisher.lazybone.xyz/",
+          "title": "Fisher's Blog",
+          "describe": "记录学习生活中的点滴",
+          "img": "https://fisher.lazybone.xyz/images/icons/avatar.jpg"
+        },
+        {
+          "url": "https://mlapp.cn/",
+          "title": "美丽应用",
+          "describe": "",
+          "img": "https://mlapp.cn/images/avatar.png"
+        },
+        {
+          "url": "http://chuquan.me/",
+          "title": "楚权的世界",
+          "describe": "Seek the wonder of life.",
+          "img": "http://chuquan.me/images/SlamDunk.png"
+        },
+        {
+          "url": "https://qamoe.cyou/",
+          "title": "QuantumAlgorithm's Portal",
+          "describe": "VENI VIDI VICI",
+          "img": "https://qamoe.cyou/img/avatar.png"
+        },
+        {
+          "url": "https://kirimasharo.com/",
+          "title": "KirimaSharo's Blog",
+          "describe": "ご注文はうさぎですか？",
+          "img": "https://ae01.alicdn.com/kf/H8ca8a08584f3460da99cb19f9b93c020X.jpg"
+        },
+        {
+          "url": "https://soha.moe/",
+          "title": "海上的宫殿",
+          "describe": "",
+          "img": "https://secure.gravatar.com/avatar/9ba9c4622d77f07198459241aad971b7?s=128"
+        },
+        {
+          "url": "https://blog.stdioa.com/",
+          "title": "Stdio's Blog",
+          "describe": "Backend Developer",
+          "img": "https://www.gravatar.com/avatar/e452ed622e6b1e9a2067a06fde30cf30?s=128"
+        },
+        {
+          "url": "https://1024.ee/",
+          "title": "1024.ee",
+          "describe": "没事自娱自乐胡说霸道",
+          "img": ""
+        },
+        {
+          "url": "https://aws.amazon.com/cn/blogs/china/",
+          "title": "亚马逊AWS官方博客",
+          "describe": "",
+          "img": ""
+        },
+        {
+          "url": "https://loliloli.moe/",
+          "title": "萌！萝莉",
+          "describe": "一切都是命运石之门的选择！EL PSY CONGROO！",
+          "img": "https://avatars.githubusercontent.com/u/52341338?v=4"
+        },
+        {
+          "url": "https://www.starduster.me/",
+          "title": "星尘独奏曲",
+          "describe": "Aria of Stardust",
+          "img": "https://gravatar.loli.net/avatar/2ff7ee659e04d6ebb7ca6206d907c488?s=192"
+        },
+        {
+          "url": "https://www.nir.moe/",
+          "title": "Goddess Unknown",
+          "describe": "A progamer.",
+          "img": "https://www.gravatar.com/avatar/2b3dc29544c9a208eb5bb88773efbfec?s=110"
+        },
+        {
+          "url": "https://wp.gxnas.com/",
+          "title": "GXNAS 博客",
+          "describe": "",
+          "img": ""
+        },
+        {
+          "url": "https://blog.jimmyho.net/",
+          "title": "Jimmy's Blog",
+          "describe": "永远相信美好的事情即将发生",
+          "img": "https://blog.jimmyho.net/"
+        },
+        {
+          "url": "https://canwdev.github.io/",
+          "title": "Canwdev's Blog",
+          "describe": "前端摸鱼中...",
+          "img": "https://canwdev.github.io/img/avatar.png"
         }
       ]
     },
