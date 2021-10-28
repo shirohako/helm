@@ -1,5 +1,5 @@
 {
-  "updated": "v2.0@2021-10-28",
+  "updated": "v2.1@2021-10-28",
   "groups": [
     {
       "name": "相互友链的大佬 ~",
@@ -65,7 +65,7 @@
           "title": "白熊阿丸的小屋",
           "describe": "如果你有幸来到这里 / 可以看到一个真实的我 / 我会在这里书写我的一切",
           "img": "https://gravatar.yecdn.com/avatar/21531185e8296f70da566b68d3fc9785?s=800",
-          "rss": "https://www.bxaw.name/feed"
+          "rss": "https://blog.bxaw.name/feed"
         },
         {
           "url": "https://acg.blue",
