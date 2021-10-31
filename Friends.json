@@ -1,5 +1,5 @@
 {
-  "updated": "v2.2@2021-10-28",
+  "updated": "v2.3@2021-10-31",
   "groups": [
     {
       "name": "相互友链的大佬 ~",
@@ -68,10 +68,10 @@
           "rss": "https://blog.bxaw.name/feed"
         },
         {
-          "url": "https://acg.blue",
+          "url": "https://xinger.vip/",
           "title": "Xinger",
-          "describe": "",
-          "img": "https://ae01.alicdn.com/kf/Udc45db4a264a40028762b886cee53a4fc.jpg"
+          "describe": "Xinger IMG Collection",
+          "img": "https://ae01.alicdn.com/kf/H5d2fed1d178548c3bbc9eb5075c69b71E.png"
         }
       ]
     }
