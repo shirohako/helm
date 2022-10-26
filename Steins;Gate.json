@@ -2,68 +2,6 @@
   "updated": "v1.0@2021-10-28",
   "groups": [
     {
-      "name": "Abyss Service (Under maintenance)",
-      "describe": "一些开源项目的个人实例,方便大家使用 (咕咕咕咕咕)",
-      "icon": "mdi-image",
-      "type": "large",
-      "assets": [
-        {
-          "url": "",
-          "title": "访问量统计",
-          "desc": "喵",
-          "stuats": "准备中",
-          "icon": "https://ae01.alicdn.com/kf/Hdf999508ff7340b8bb52399bf2913050G.png",
-          "tags": [],
-          "button": []
-        },
-        {
-          "url": "",
-          "title": "网站状态",
-          "desc": "喵",
-          "stuats": "准备中",
-          "icon": "https://ae01.alicdn.com/kf/Hdf999508ff7340b8bb52399bf2913050G.png",
-          "tags": [],
-          "button": []
-        },
-        {
-          "url": "",
-          "title": "图床1",
-          "desc": "基于Alicdn公共图床,大陆速度不错",
-          "stuats": "准备中",
-          "icon": "https://ae01.alicdn.com/kf/Hdf999508ff7340b8bb52399bf2913050G.png",
-          "tags": [],
-          "button": []
-        },
-        {
-          "url": "",
-          "title": "图床2",
-          "desc": "基于Chevereto公共图床",
-          "stuats": "准备中",
-          "icon": "https://ae01.alicdn.com/kf/Hdf999508ff7340b8bb52399bf2913050G.png",
-          "tags": [],
-          "button": []
-        },
-        {
-          "url": "",
-          "title": "签到",
-          "desc": "一个公开的每日签到项目",
-          "stuats": "准备中",
-          "icon": "https://ae01.alicdn.com/kf/Hdf999508ff7340b8bb52399bf2913050G.png",
-          "tags": [],
-          "button": []
-        },
-        {
-          "url": "",
-          "title": "KMS激活",
-          "desc": "喵",
-          "stuats": "准备中",
-          "icon": "https://ae01.alicdn.com/kf/Hdf999508ff7340b8bb52399bf2913050G.png",
-          "tags": [],
-          "button": []
-        }
-      ]
-    },
-    {
       "name": "Image Search",
       "describe": "反向搜图,以图搜图",
       "icon": "mdi-image",
