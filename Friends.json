@@ -20,16 +20,10 @@
           "rss": "https://blog.atri.tk/atom.xml"
         },
         {
-          "url": "https://nek0ri.de/",
-          "title": "猫梨の部屋",
-          "describe": "",
-          "img": "https://ae01.alicdn.com/kf/Ha20e8d3be75f4d10be3c1e29543144cdt.jpg"
-        },
-        {
           "url": "https://blog.spinmry.moe/",
           "title": "spinmry's Lab",
           "describe": "社会学研究 +6",
-          "img": "https://blog.spinmry.moe/avatar.jpg",
+          "img": "https://blog.spinmry.moe/spinmry.ico",
           "rss": "https://blog.spinmry.moe/feeds/"
         },
         {
