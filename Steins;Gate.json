@@ -1,0 +1,470 @@
+{
+  "updated": "v1.0@2021-10-28",
+  "deprecated": "Use https://abyss.moe/memos/ instead",
+  "groups": [
+    {
+      "name": "Online Network Tools",
+      "describe": "网络状况检测工具",
+      "icon": "mdi-youtube",
+      "assets": [
+        {
+          "url": "https://ping.sx/ping",
+          "title": "Ping.Sx",
+          "icon": "",
+          "desc": "Ping any server from 130 global locations in parallel."
+        },
+        {
+          "url": "https://ping.pe/",
+          "title": "ping.pe",
+          "icon": "",
+          "desc": "Ping, mtr, dig and TCP port check from multiple locations"
+        },
+        {
+          "url": "https://catbox.moe/",
+          "title": "Sukka 网络诊断与调试",
+          "icon": "https://cdn.jsdelivr.net/npm/skx@0.0.1/favicon/favicon-32x32.png",
+          "desc": "综合网络工具"
+        }
+      ]
+    },
+    {
+      "name": "Temporary File Share",
+      "describe": "临时分享文件",
+      "icon": "mdi-youtube",
+      "assets": [
+        {
+          "url": "https://catbox.moe/",
+          "title": "Catbox",
+          "icon": "https://catbox.moe/pictures/favicon.ico",
+          "desc": "The cutest free file host you've ever seen"
+        }
+      ]
+    },
+    {
+      "name": "Image Hosting",
+      "describe": "图床/上传图片/贴图",
+      "icon": "mdi-youtube ",
+      "assets": [
+      ]
+    },
+    {
+      "name": "Mircosoft Service",
+      "describe": "微软相关的服务和工具",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://uupdump.net/",
+          "title": "UUP dump",
+          "desc": "Download UUP files from Windows Update servers with ease."
+        },
+        {
+          "url": "https://otp.landian.vip/",
+          "title": "Office Tool Plus",
+          "desc": "Office 小工具"
+        },
+        {
+          "url": "https://www.xitongku.com/index.html",
+          "title": "MSDN系统库",
+          "desc": "Win系统/Office下载"
+        }
+      ]
+    },
+    {
+      "name": "Adobe Service",
+      "describe": "Adobe相关的服务和工具",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "http://www.v404.cn/adobe/",
+          "title": "v404.cn",
+          "desc": "Adobe下载"
+        }
+      ]
+    },
+    {
+      "name": "Online Tools",
+      "describe": "一些实用的网站",
+      "icon": "mdi-image",
+      "assets": [
+        {
+          "url": "https://asciinema.org/",
+          "title": "asciinema",
+          "icon": "https://asciinema.org/images/logo-red-949d10005bb389d1ae900a13b5ac53d7.svg",
+          "desc": "录制/分享 终端"
+        },
+        {
+          "url": "https://onlinesim.ru/",
+          "title": "onlinesim",
+          "icon": "https://onlinesim.ru/favicon.ico",
+          "desc": "虚拟号码/接短信"
+        },
+        {
+          "url": "https://app.diagrams.net/",
+          "title": "diagrams",
+          "icon": "https://app.diagrams.net/favicon.ico",
+          "desc": "在线图表工具"
+        }
+      ]
+    },
+    {
+      "name": "Explore",
+      "describe": "可以找一些实用工具/项目/软件",
+      "icon": "mdi-image",
+      "assets": [
+        {
+          "url": "https://awesomeopensource.com/",
+          "title": "Awesome Open Source",
+          "icon": "https://awesomeopensource.com/awesome.gif",
+          "desc": "找开源项目"
+        },
+        {
+          "url": "https://youquhome.com/",
+          "icon": "https://youquhome.com/favicon.ico",
+          "title": "有趣网址之家",
+          "desc": "收藏全球最有趣的网站"
+        },
+        {
+          "url": "https://www.appinn.com/",
+          "icon": "https://www.appinn.com/favicon.ico",
+          "title": "小众软件",
+          "desc": "分享免费、小巧、实用、有趣、绿色的软件"
+        },
+        {
+          "url": "https://lottiefiles.com/",
+          "icon": "https://lottiefiles.com/favicons/apple-touch-icon.png",
+          "title": "LottieFiles",
+          "desc": "Free Lottie Animation Files, Tools & Plugins"
+        }
+      ]
+    },
+    {
+      "name": "Anime Download",
+      "describe": "动画资源 BT/PT/字幕组/压制组",
+      "icon": "mdi-file-video",
+      "assets": [
+        {
+          "url": "https://nyaa.si/",
+          "title": "Nyaa",
+          "icon": "https://nyaa.si/static/favicon.png"
+        },
+        {
+          "url": "https://dmhy.org/",
+          "title": "動漫花園",
+          "icon": "https://dmhy.org/favicon.ico"
+        },
+        {
+          "url": "https://mikanani.me/",
+          "title": "蜜柑计划 - Mikan Project",
+          "icon": "https://mikanani.me/images/mikan-pic.png"
+        },
+        {
+          "url": "https://bangumi.moe/",
+          "title": "Bangumi Moe"
+        },
+        {
+          "url": "https://acg.rip/",
+          "title": "ACG.RIP",
+          "icon": "https://acg.rip/favicon.ico"
+        },
+        {
+          "url": "https://www.acgnx.se/",
+          "title": "Project AcgnX Torrent Global",
+          "icon": "https://www.acgnx.se/images/favicon.ico"
+        },
+        {
+          "url": "https://www.comicat.org/",
+          "title": "漫猫动漫BT下载",
+          "icon": "https://www.comicat.org/images/favicon/comicat.ico"
+        }
+      ]
+    },
+    {
+      "name": "Game (Social Media)",
+      "describe": "游戏社区、游戏媒体",
+      "icon": "mdi-gamepad-square",
+      "assets": [
+        {
+          "url": "https://keylol.com/",
+          "title": "其乐",
+          "icon": "https://keylol.com/favicon.ico"
+        },
+        {
+          "url": "https://www.gcores.com/",
+          "title": "机核 GCORES",
+          "icon": "https://www.gcores.com/favicon.ico"
+        },
+        {
+          "url": "https://www.vgtime.com/",
+          "title": "游戏时光",
+          "icon": "https://www.vgtime.com/resources/img/favicon.ico"
+        },
+        {
+          "url": "https://indienova.com/",
+          "title": "Indienova",
+          "icon": "https://indienova.com/favicon.ico"
+        },
+        {
+          "url": "https://www.gamer.com.tw/",
+          "title": "巴哈姆特",
+          "icon": "https://www.gamer.com.tw/favicon.ico"
+        },
+        {
+          "url": "https://cowlevel.net/game",
+          "title": "奶牛关",
+          "icon": "https://cowlevel.net/favicon.ico"
+        }
+      ]
+    },
+    {
+      "name": "Galgame",
+      "describe": "黄油下载/CG下载",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://www.remove.bg/",
+          "title": "VNDB",
+          "desc": "The Visual Novel Database"
+        },
+        {
+          "url": "https://www.kkgal.com/",
+          "title": "忧郁的弟弟"
+        },
+        {
+          "url": "https://galge.fun/",
+          "title": "2dfan"
+        },
+        {
+          "url": "https://galge.cn/",
+          "title": "萌游"
+        }
+      ]
+    },
+    {
+      "name": "Learning Language",
+      "describe": "语言相关/日语",
+      "icon": "mdi-image",
+      "assets": [
+        {
+          "url": "https://www.kanjipedia.jp/",
+          "title": "kanjipedia",
+          "desc": "汉字搜索"
+        },
+        {
+          "url": "https://bizushiki.com/",
+          "title": "ビズ式",
+          "desc": "商用书信、邮件例文"
+        }
+      ]
+    },
+    {
+      "name": "Drive",
+      "describe": "硬件相关",
+      "icon": "mdi-youtube",
+      "assets": [
+        {
+          "url": "https://www.storagereview.com/",
+          "title": "Storage Reviews",
+          "desc": "存储设备评测"
+        },
+        {
+          "url": "https://www.right.com.cn/forum/#",
+          "title": "恩山无线论坛",
+          "desc": "软路由/无线设备"
+        },
+        {
+          "url": "https://www.openos.org/",
+          "title": "openos",
+          "desc": "NAS"
+        }
+      ]
+    },
+    {
+      "name": "Kotoba",
+      "describe": "名言",
+      "icon": "mdi-youtube",
+      "assets": [
+        {
+          "url": "https://meigen.keiziban-jp.com/",
+          "title": "心に残る名言集・格言│～最大級～"
+        },
+        {
+          "url": "https://aniphorism.com/",
+          "title": "アニメ名言ライブラリー"
+        },
+        {
+          "url": "https://kotobanosusume.com/",
+          "title": "本の名言サイト"
+        },
+        {
+          "url": "https://zh.wikiquote.org/wiki/%E9%8A%80%E6%B2%B3%E8%8B%B1%E9%9B%84%E5%82%B3%E8%AA%AA",
+          "title": "wikiquote",
+          "desc": "wikiquote/銀河英雄傳說"
+        },
+        {
+          "url": "https://kimu3.net/",
+          "title": "文脈をつなぐ",
+          "desc": "日语流行语解说"
+        }
+      ]
+    },
+    {
+      "name": "Web Design",
+      "describe": "设计",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://dev.to/",
+          "title": "dev.to",
+          "desc": "web设计"
+        },
+        {
+          "url": "https://www.gameuidatabase.com/",
+          "title": "Game UI Database"
+        },
+        {
+          "url": "https://jelly.jd.com/designtools/all",
+          "title": "jelly",
+          "desc": "京东、设计"
+        },
+        {
+          "url": "https://codesandbox.io/explore",
+          "title": "codesandbox"
+        },
+        {
+          "url": "https://dribbble.com/",
+          "title": "dribbble"
+        }
+      ]
+    },
+    {
+      "name": "Maps",
+      "describe": "公开的地图",
+      "icon": "mdi-youtube",
+      "assets": [
+        {
+          "url": "https://www.infrapedia.com/",
+          "title": "infrapedia",
+          "icon": "https://www.infrapedia.com/favicon.ico",
+          "desc": "海缆等基础设施地图"
+        }
+      ]
+    },
+    {
+      "name": "Comparison Tool",
+      "describe": "对比/比价",
+      "icon": "mdi-youtube",
+      "assets": [
+        {
+          "url": "https://zh-hans.tld-list.com/",
+          "title": "TLD List",
+          "icon": "https://zh-hans.tld-list.com/favicon.ico",
+          "desc": "比较所有顶级域名的价格"
+        },
+        {
+          "url": "https://versus.com/cn",
+          "title": "versus",
+          "icon": "https://versus.com/icons/msapplication-icon-144x144.png",
+          "desc": "万物皆可对比"
+        },
+        {
+          "url": "https://premiumbuilds.com/",
+          "title": "Premium Build",
+          "icon": "https://premiumbuilds.com/wp-content/uploads/2021/03/cropped-premiumbuilds-favicon-new-2-32x32.png",
+          "desc": "万物皆可对比"
+        }
+      ]
+    },
+    {
+      "name": "Awesome Website",
+      "describe": "有些做的漂亮的网站",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://harumakigohan.com/",
+          "title": "harumakigohan",
+          "desc": "harumakigohan的个人主页"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "describe": "其他/还没分类的仍在一起",
+      "icon": "mdi-youtube ",
+      "assets": [
+        {
+          "url": "https://j-mag.org/",
+          "title": "JMAG NEWS",
+          "desc": "アニメニュースサイト"
+        },
+        {
+          "url": "https://www.expreview.com/",
+          "title": "超能网"
+        },
+        {
+          "url": "https://gouhuo.qq.com/",
+          "title": "篝火营地",
+          "icon": "https://gouhuo.qq.com/favicon.ico"
+        },
+        {
+          "url": "https://itch.io/",
+          "title": "itch.io",
+          "icon": "https://itch.io/favicon.ico"
+        },
+        {
+          "url": "https://automaton-media.com/",
+          "title": "AUTOMATON",
+          "icon": "https://automaton-media.com/wp-content/uploads/2016/05/automaton-favicon.ico"
+        },
+        {
+          "url": "https://gamercards.exophase.com/",
+          "title": "exophase",
+          "desc": "steam/xbox/psn Gamercards"
+        },
+        {
+          "url": "https://vitadb.rinnegatamante.it/#/plugins",
+          "title": "vitadb",
+          "desc": "psvita 工具和插件"
+        },
+        {
+          "url": "https://nopaystation.com/",
+          "title": "NoPayStation",
+          "desc": "psvita pkg下载"
+        },
+        {
+          "url": "https://w.atwiki.jp/gamemusicbest100/",
+          "title": "みんなで決めるゲーム音楽ベスト100まとめwiki"
+        },
+        {
+          "url": "https://www.sakugabooru.com/post",
+          "title": "sakugabooru",
+          "desc": "作画"
+        },
+        {
+          "url": "https://afdian.net/",
+          "title": "爱发电",
+          "desc": "按月赞助平台"
+        },
+        {
+          "url": "https://www.modian.com/",
+          "title": "摩点",
+          "desc": "国内众筹平台"
+        },
+        {
+          "url": "https://blogmura.com/",
+          "title": "にほんブログ村",
+          "desc": "人気ブログランキングとブログ検索"
+        },
+        {
+          "url": "https://command-not-found.com/",
+          "title": "command-not-found.com",
+          "desc": "Install any command on any operating system."
+        },
+        {
+          "url": "https://asmcn.icopy.site/",
+          "title": "超赞合集",
+          "desc": "awesome list chinese"
+        }
+      ]
+    }
+  ]
+}
