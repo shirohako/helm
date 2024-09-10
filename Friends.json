@@ -1,5 +1,5 @@
 {
-  "updated": "v2.4@2024-05-07",
+  "updated": "v2.5@2024-09-10",
   "groups": [
     {
       "name": "相互友链的大佬 ~",
@@ -79,6 +79,12 @@
           "title": "化猫の幻",
           "describe": "",
           "img": "https://ae01.alicdn.com/kf/Hc21255e5cec144c7b11896ba6bea5d60L.jpg"
+        },        
+        {
+          "url": "https://psychol.cn",
+          "title": "PsycholCN",
+          "describe": "PsycholCN致力于普及心理健康相关知识，并改善特定人群的歧视及误解等问题。",
+          "img": "https://psychol.cn/w/logo.png"
         }
       ]
     }
