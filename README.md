@@ -13,4 +13,5 @@ https://github.com/shirohako/helm/issues
 ## 已废弃 (deprecated)
 
 Following.json 单向关注的人
+
 Steins;Gate.json Quick Reference
