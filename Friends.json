@@ -1,5 +1,5 @@
 {
-  "updated": "v2.5@2024-09-10",
+  "updated": "v2.6@2024-12-06",
   "groups": [
     {
       "name": "相互友链的大佬 ~",
@@ -62,7 +62,7 @@
           "rss": "https://blog.meow.page/atom.xml"
         },
         {
-          "url": "https://bxaw.name",
+          "url": "https://blog.bxaw.name",
           "title": "白熊阿丸的小屋",
           "describe": "如果你有幸来到这里 / 可以看到一个真实的我 / 我会在这里书写我的一切",
           "img": "https://profile.bxaw.name/avatar/21531185e8296f70da566b68d3fc9785?s=400&r=G",
@@ -80,12 +80,6 @@
           "describe": "",
           "img": "https://ae01.alicdn.com/kf/Hc21255e5cec144c7b11896ba6bea5d60L.jpg"
         },        
-        {
-          "url": "https://psychol.cn",
-          "title": "PsycholCN",
-          "describe": "PsycholCN致力于普及心理健康相关知识，并改善特定人群的歧视及误解等问题。",
-          "img": "https://psychol.cn/w/logo.png"
-        }
       ]
     }
   ]
